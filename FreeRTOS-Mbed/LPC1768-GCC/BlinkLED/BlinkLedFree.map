@@ -1,0 +1,1347 @@
+Archive member included because of file (symbol)
+
+/opt/local/lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/thumb/libc.a(lib_a-memcpy-stub.o)
+                              ../../FreeRTOS/queue.o (memcpy)
+/opt/local/lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/thumb/libc.a(lib_a-memset.o)
+                              ../../FreeRTOS/tasks.o (memset)
+/opt/local/lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/thumb/libc.a(lib_a-sprintf.o)
+                              ../../FreeRTOS/tasks.o (sprintf)
+/opt/local/lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/thumb/libc.a(lib_a-strcat.o)
+                              ../../FreeRTOS/tasks.o (strcat)
+/opt/local/lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/thumb/libc.a(lib_a-strlen.o)
+                              ../../FreeRTOS/tasks.o (strlen)
+/opt/local/lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/thumb/libc.a(lib_a-strncpy.o)
+                              ../../FreeRTOS/tasks.o (strncpy)
+/opt/local/lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/thumb/libc.a(lib_a-svfprintf.o)
+                              /opt/local/lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/thumb/libc.a(lib_a-sprintf.o) (_svfprintf_r)
+/opt/local/lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/thumb/libc.a(lib_a-dtoa.o)
+                              /opt/local/lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/thumb/libc.a(lib_a-svfprintf.o) (_dtoa_r)
+/opt/local/lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/thumb/libc.a(lib_a-impure.o)
+                              /opt/local/lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/thumb/libc.a(lib_a-sprintf.o) (_impure_ptr)
+/opt/local/lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/thumb/libc.a(lib_a-locale.o)
+                              /opt/local/lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/thumb/libc.a(lib_a-svfprintf.o) (_localeconv_r)
+/opt/local/lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/thumb/libc.a(lib_a-mallocr.o)
+                              /opt/local/lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/thumb/libc.a(lib_a-svfprintf.o) (_malloc_r)
+/opt/local/lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/thumb/libc.a(lib_a-memchr-stub.o)
+                              /opt/local/lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/thumb/libc.a(lib_a-svfprintf.o) (memchr)
+/opt/local/lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/thumb/libc.a(lib_a-mlock.o)
+                              /opt/local/lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/thumb/libc.a(lib_a-mallocr.o) (__malloc_lock)
+/opt/local/lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/thumb/libc.a(lib_a-mprec.o)
+                              /opt/local/lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/thumb/libc.a(lib_a-dtoa.o) (_Balloc)
+/opt/local/lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/thumb/libc.a(lib_a-s_fpclassify.o)
+                              /opt/local/lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/thumb/libc.a(lib_a-svfprintf.o) (__fpclassifyd)
+/opt/local/lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/thumb/libc.a(lib_a-strcmp.o)
+                              /opt/local/lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/thumb/libc.a(lib_a-locale.o) (strcmp)
+/opt/local/lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/thumb/libc.a(lib_a-svfiprintf.o)
+                              /opt/local/lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/thumb/libc.a(lib_a-svfprintf.o) (__ssprint_r)
+/opt/local/lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/thumb/libc.a(lib_a-callocr.o)
+                              /opt/local/lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/thumb/libc.a(lib_a-mprec.o) (_calloc_r)
+/opt/local/lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/thumb/libc.a(lib_a-freer.o)
+                              /opt/local/lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/thumb/libc.a(lib_a-mallocr.o) (_free_r)
+/opt/local/lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/thumb/libc.a(lib_a-memmove.o)
+                              /opt/local/lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/thumb/libc.a(lib_a-svfiprintf.o) (memmove)
+/opt/local/lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/thumb/libc.a(lib_a-reallocr.o)
+                              /opt/local/lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/thumb/libc.a(lib_a-svfiprintf.o) (_realloc_r)
+/opt/local/lib/gcc/arm-none-eabi/4.7.3/thumb/libgcc.a(_thumb1_case_uqi.o)
+                              /opt/local/lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/thumb/libc.a(lib_a-dtoa.o) (__gnu_thumb1_case_uqi)
+/opt/local/lib/gcc/arm-none-eabi/4.7.3/thumb/libgcc.a(_thumb1_case_uhi.o)
+                              /opt/local/lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/thumb/libc.a(lib_a-svfprintf.o) (__gnu_thumb1_case_uhi)
+/opt/local/lib/gcc/arm-none-eabi/4.7.3/thumb/libgcc.a(_udivsi3.o)
+                              /opt/local/lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/thumb/libc.a(lib_a-svfprintf.o) (__aeabi_uidiv)
+/opt/local/lib/gcc/arm-none-eabi/4.7.3/thumb/libgcc.a(_divsi3.o)
+                              /opt/local/lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/thumb/libc.a(lib_a-svfprintf.o) (__aeabi_idiv)
+/opt/local/lib/gcc/arm-none-eabi/4.7.3/thumb/libgcc.a(_dvmd_tls.o)
+                              /opt/local/lib/gcc/arm-none-eabi/4.7.3/thumb/libgcc.a(_udivsi3.o) (__aeabi_idiv0)
+/opt/local/lib/gcc/arm-none-eabi/4.7.3/thumb/libgcc.a(_arm_addsubdf3.o)
+                              /opt/local/lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/thumb/libc.a(lib_a-dtoa.o) (__aeabi_dsub)
+/opt/local/lib/gcc/arm-none-eabi/4.7.3/thumb/libgcc.a(_arm_muldivdf3.o)
+                              /opt/local/lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/thumb/libc.a(lib_a-dtoa.o) (__aeabi_dmul)
+/opt/local/lib/gcc/arm-none-eabi/4.7.3/thumb/libgcc.a(_arm_cmpdf2.o)
+                              /opt/local/lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/thumb/libc.a(lib_a-svfprintf.o) (__aeabi_dcmpeq)
+/opt/local/lib/gcc/arm-none-eabi/4.7.3/thumb/libgcc.a(_arm_fixdfsi.o)
+                              /opt/local/lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/thumb/libc.a(lib_a-dtoa.o) (__aeabi_d2iz)
+
+Allocating common symbols
+Common symbol       size              file
+
+xQueueRegistry      0x50              ../../FreeRTOS/queue.o
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+FLASH            0x0000000000000000 0x0000000000080000 xr
+SRAM             0x0000000010000000 0x0000000000008000 xrw
+AHBRAM0          0x000000002007c000 0x0000000000004000
+AHBRAM1          0x0000000020080000 0x0000000000004000
+*default*        0x0000000000000000 0xffffffffffffffff
+
+Linker script and memory map
+
+LOAD ./sys/startup_lpc17.o
+LOAD ./sys/syscalls.o
+LOAD ../../FreeRTOS/list.o
+LOAD ../../FreeRTOS/queue.o
+LOAD ../../FreeRTOS/tasks.o
+LOAD ../../FreeRTOS/portable/GCC/ARM_CM3/port.o
+LOAD ../../FreeRTOS/portable/MemMang/heap_2.o
+LOAD ../../CMSIS/CM3/DeviceSupport/LPC17xx/system_LPC17xx.o
+LOAD ./main.o
+START GROUP
+LOAD /opt/local/lib/gcc/arm-none-eabi/4.7.3/thumb/libgcc.a
+LOAD /opt/local/lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/thumb/libc.a
+END GROUP
+START GROUP
+LOAD /opt/local/lib/gcc/arm-none-eabi/4.7.3/thumb/libgcc.a
+LOAD /opt/local/lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/thumb/libc.a
+END GROUP
+                0x0000000010008000                _vRamTop = 0x10008000
+
+.text           0x0000000000000000     0x7178
+ *(.isr_vector)
+ .isr_vector    0x0000000000000000       0xc4 ./sys/startup_lpc17.o
+                0x0000000000000000                g_pfnVectors
+ *(.text*)
+ .text          0x00000000000000c4       0xa0 ./sys/startup_lpc17.o
+                0x00000000000000c4                Reset_Handler
+                0x00000000000000c4                ResetISR
+                0x0000000000000158                I2C0_IRQHandler
+                0x0000000000000158                PWM1_IRQHandler
+                0x0000000000000158                I2C1_IRQHandler
+                0x0000000000000158                EINT2_IRQHandler
+                0x0000000000000158                UART1_IRQHandler
+                0x0000000000000158                EINT3_IRQHandler
+                0x0000000000000158                TIMER3_IRQHandler
+                0x0000000000000158                UART0_IRQHandler
+                0x0000000000000158                PLL0_IRQHandler
+                0x0000000000000158                CAN_IRQHandler
+                0x0000000000000158                PLL1_IRQHandler
+                0x0000000000000158                SSP0_IRQHandler
+                0x0000000000000158                I2S_IRQHandler
+                0x0000000000000158                I2C2_IRQHandler
+                0x0000000000000158                RTC_IRQHandler
+                0x0000000000000158                TIMER0_IRQHandler
+                0x0000000000000158                SPI_IRQHandler
+                0x0000000000000158                EINT1_IRQHandler
+                0x0000000000000158                TIMER1_IRQHandler
+                0x0000000000000158                UART2_IRQHandler
+                0x0000000000000158                ADC_IRQHandler
+                0x0000000000000158                SSP1_IRQHandler
+                0x0000000000000158                USB_IRQHandler
+                0x0000000000000158                BOD_IRQHandler
+                0x0000000000000158                WDT_IRQHandler
+                0x0000000000000158                QEI_IRQHandler
+                0x0000000000000158                EINT0_IRQHandler
+                0x0000000000000158                DMA_IRQHandler
+                0x0000000000000158                UART3_IRQHandler
+                0x0000000000000158                MCPWM_IRQHandler
+                0x0000000000000158                TIMER2_IRQHandler
+                0x0000000000000158                ENET_IRQHandler
+                0x0000000000000158                RIT_IRQHandler
+ .text          0x0000000000000164       0x80 ./sys/syscalls.o
+                0x0000000000000164                _read_r
+                0x0000000000000178                _lseek_r
+                0x000000000000018c                _write_r
+                0x00000000000001a0                _close_r
+                0x00000000000001b0                _sbrk_r
+                0x00000000000001c0                _fstat_r
+                0x00000000000001d4                _isatty_r
+ .text          0x00000000000001e4      0x144 ../../FreeRTOS/list.o
+                0x00000000000001e4                vListInitialise
+                0x000000000000021c                vListInitialiseItem
+                0x000000000000022c                vListInsertEnd
+                0x0000000000000274                vListInsert
+                0x00000000000002e0                vListRemove
+ .text          0x0000000000000328      0x8e8 ../../FreeRTOS/queue.o
+                0x0000000000000328                xQueueCreate
+                0x00000000000003e8                xQueueCreateMutex
+                0x0000000000000478                xQueueGiveMutexRecursive
+                0x00000000000004c8                xQueueTakeMutexRecursive
+                0x0000000000000520                xQueueCreateCountingSemaphore
+                0x0000000000000548                xQueueGenericSend
+                0x000000000000065c                xQueueGenericSendFromISR
+                0x00000000000006e4                xQueueGenericReceive
+                0x0000000000000860                xQueueReceiveFromISR
+                0x00000000000008ec                uxQueueMessagesWaiting
+                0x0000000000000908                uxQueueMessagesWaitingFromISR
+                0x000000000000091c                vQueueDelete
+                0x0000000000000b04                xQueueIsQueueEmptyFromISR
+                0x0000000000000b4c                xQueueIsQueueFullFromISR
+                0x0000000000000b6c                vQueueAddToRegistry
+ .text          0x0000000000000c10     0x15c4 ../../FreeRTOS/tasks.o
+                0x0000000000000c10                xTaskGenericCreate
+                0x0000000000000dc8                vTaskDelete
+                0x0000000000000e84                vTaskDelayUntil
+                0x0000000000000f88                vTaskDelay
+                0x0000000000001038                uxTaskPriorityGet
+                0x000000000000106c                vTaskPrioritySet
+                0x0000000000001190                vTaskSuspend
+                0x0000000000001240                xTaskIsTaskSuspended
+                0x0000000000001284                vTaskResume
+                0x0000000000001328                xTaskResumeFromISR
+                0x00000000000013e0                vTaskStartScheduler
+                0x000000000000144c                vTaskEndScheduler
+                0x000000000000146c                vTaskSuspendAll
+                0x0000000000001488                xTaskResumeAll
+                0x00000000000015e0                xTaskGetTickCount
+                0x0000000000001600                xTaskGetTickCountFromISR
+                0x0000000000001610                uxTaskGetNumberOfTasks
+                0x0000000000001620                vTaskList
+                0x0000000000001744                vTaskStartTrace
+                0x0000000000001794                ulTaskEndTrace
+                0x00000000000017d0                vTaskIncrementTick
+                0x0000000000001904                vTaskSwitchContext
+                0x0000000000001a84                vTaskPlaceOnEventList
+                0x0000000000001b50                xTaskRemoveFromEventList
+                0x0000000000001c1c                vTaskSetTimeOutState
+                0x0000000000001c40                xTaskCheckForTimeOut
+                0x0000000000001cdc                vTaskMissedYield
+                0x0000000000002014                uxTaskGetStackHighWaterMark
+                0x0000000000002064                xTaskGetCurrentTaskHandle
+                0x000000000000207c                vTaskPriorityInherit
+                0x000000000000214c                vTaskPriorityDisinherit
+ .text          0x00000000000021d4      0x1d0 ../../FreeRTOS/portable/GCC/ARM_CM3/port.o
+                0x00000000000021d4                pxPortInitialiseStack
+                0x0000000000002228                vPortSVCHandler
+                0x0000000000002248                vPortStartFirstTask
+                0x0000000000002258                xPortStartScheduler
+                0x00000000000022a8                vPortEndScheduler
+                0x00000000000022ac                vPortYieldFromISR
+                0x00000000000022bc                vPortEnterCritical
+                0x00000000000022e0                vPortExitCritical
+                0x0000000000002310                xPortPendSVHandler
+                0x000000000000234c                xPortSysTickHandler
+ .text          0x00000000000023a4      0x240 ../../FreeRTOS/portable/MemMang/heap_2.o
+                0x00000000000023a4                pvPortMalloc
+                0x0000000000002550                vPortFree
+                0x00000000000025d0                xPortGetFreeHeapSize
+                0x00000000000025e0                vPortInitialiseBlocks
+ .text          0x00000000000025e4      0x440 ../../CMSIS/CM3/DeviceSupport/LPC17xx/system_LPC17xx.o
+                0x00000000000025e4                SystemCoreClockUpdate
+                0x00000000000027ec                SystemInit
+ .text          0x0000000000002a24      0x164 ./main.o
+                0x0000000000002a24                init_hardware
+                0x0000000000002a8c                blink_led_task
+                0x0000000000002b44                main
+ .text          0x0000000000002b88       0x16 /opt/local/lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/thumb/libc.a(lib_a-memcpy-stub.o)
+                0x0000000000002b88                memcpy
+ .text          0x0000000000002b9e       0x14 /opt/local/lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/thumb/libc.a(lib_a-memset.o)
+                0x0000000000002b9e                memset
+ *fill*         0x0000000000002bb2        0x2 
+ .text          0x0000000000002bb4       0x84 /opt/local/lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/thumb/libc.a(lib_a-sprintf.o)
+                0x0000000000002bb4                _sprintf_r
+                0x0000000000002bf4                sprintf
+ .text          0x0000000000002c38       0x1e /opt/local/lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/thumb/libc.a(lib_a-strcat.o)
+                0x0000000000002c38                strcat
+ .text          0x0000000000002c56        0xe /opt/local/lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/thumb/libc.a(lib_a-strlen.o)
+                0x0000000000002c56                strlen
+ .text          0x0000000000002c64       0x2e /opt/local/lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/thumb/libc.a(lib_a-strncpy.o)
+                0x0000000000002c64                strncpy
+ *fill*         0x0000000000002c92        0x6 
+ .text          0x0000000000002c98      0xef8 /opt/local/lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/thumb/libc.a(lib_a-svfprintf.o)
+                0x0000000000002c98                _svfprintf_r
+ .text          0x0000000000003b90      0xca0 /opt/local/lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/thumb/libc.a(lib_a-dtoa.o)
+                0x0000000000003ccc                _dtoa_r
+ .text          0x0000000000004830        0x0 /opt/local/lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/thumb/libc.a(lib_a-impure.o)
+ .text          0x0000000000004830       0xa0 /opt/local/lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/thumb/libc.a(lib_a-locale.o)
+                0x0000000000004830                _setlocale_r
+                0x0000000000004878                __locale_charset
+                0x0000000000004880                __locale_mb_cur_max
+                0x000000000000488c                __locale_msgcharset
+                0x0000000000004898                __locale_cjk_lang
+                0x000000000000489c                _localeconv_r
+                0x00000000000048a8                setlocale
+                0x00000000000048c4                localeconv
+ .text          0x00000000000048d0      0x404 /opt/local/lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/thumb/libc.a(lib_a-mallocr.o)
+                0x00000000000048d0                _malloc_r
+ .text          0x0000000000004cd4       0x1c /opt/local/lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/thumb/libc.a(lib_a-memchr-stub.o)
+                0x0000000000004cd4                memchr
+ .text          0x0000000000004cf0        0x4 /opt/local/lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/thumb/libc.a(lib_a-mlock.o)
+                0x0000000000004cf0                __malloc_lock
+                0x0000000000004cf2                __malloc_unlock
+ *fill*         0x0000000000004cf4        0x4 
+ .text          0x0000000000004cf8      0x860 /opt/local/lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/thumb/libc.a(lib_a-mprec.o)
+                0x0000000000004cf8                _Balloc
+                0x0000000000004d4e                _Bfree
+                0x0000000000004d66                __multadd
+                0x0000000000004de8                __s2b
+                0x0000000000004e6c                __hi0bits
+                0x0000000000004ea4                __lo0bits
+                0x0000000000004f02                __i2b
+                0x0000000000004f18                __multiply
+                0x000000000000505e                __pow5mult
+                0x00000000000050e4                __lshift
+                0x000000000000518e                __mcmp
+                0x00000000000051ca                __mdiff
+                0x00000000000052aa                __ulp
+                0x00000000000052f0                __b2d
+                0x000000000000538c                __d2b
+                0x000000000000543c                __ratio
+                0x0000000000005488                _mprec_log10
+                0x00000000000054cc                __copybits
+                0x0000000000005500                __any_on
+ .text          0x0000000000005558       0x5c /opt/local/lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/thumb/libc.a(lib_a-s_fpclassify.o)
+                0x0000000000005558                __fpclassifyd
+ .text          0x00000000000055b4       0x14 /opt/local/lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/thumb/libc.a(lib_a-strcmp.o)
+                0x00000000000055b4                strcmp
+ .text          0x00000000000055c8      0x834 /opt/local/lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/thumb/libc.a(lib_a-svfiprintf.o)
+                0x00000000000055c8                __ssprint_r
+                0x00000000000056d0                _svfiprintf_r
+ .text          0x0000000000005dfc       0x62 /opt/local/lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/thumb/libc.a(lib_a-callocr.o)
+                0x0000000000005dfc                _calloc_r
+ *fill*         0x0000000000005e5e        0x2 
+ .text          0x0000000000005e60      0x220 /opt/local/lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/thumb/libc.a(lib_a-freer.o)
+                0x0000000000005e60                _malloc_trim_r
+                0x0000000000005f04                _free_r
+ .text          0x0000000000006080       0x34 /opt/local/lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/thumb/libc.a(lib_a-memmove.o)
+                0x0000000000006080                memmove
+ .text          0x00000000000060b4      0x300 /opt/local/lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/thumb/libc.a(lib_a-reallocr.o)
+                0x00000000000060b4                _realloc_r
+ .text          0x00000000000063b4       0x14 /opt/local/lib/gcc/arm-none-eabi/4.7.3/thumb/libgcc.a(_thumb1_case_uqi.o)
+                0x00000000000063b4                __gnu_thumb1_case_uqi
+ .text          0x00000000000063c8       0x14 /opt/local/lib/gcc/arm-none-eabi/4.7.3/thumb/libgcc.a(_thumb1_case_uhi.o)
+                0x00000000000063c8                __gnu_thumb1_case_uhi
+ .text          0x00000000000063dc       0x94 /opt/local/lib/gcc/arm-none-eabi/4.7.3/thumb/libgcc.a(_udivsi3.o)
+                0x00000000000063dc                __udivsi3
+                0x00000000000063dc                __aeabi_uidiv
+                0x000000000000645c                __aeabi_uidivmod
+ .text          0x0000000000006470       0xb0 /opt/local/lib/gcc/arm-none-eabi/4.7.3/thumb/libgcc.a(_divsi3.o)
+                0x0000000000006470                __aeabi_idiv
+                0x0000000000006470                __divsi3
+                0x000000000000650c                __aeabi_idivmod
+ .text          0x0000000000006520        0x4 /opt/local/lib/gcc/arm-none-eabi/4.7.3/thumb/libgcc.a(_dvmd_tls.o)
+                0x0000000000006520                __aeabi_ldiv0
+                0x0000000000006520                __aeabi_idiv0
+ .text          0x0000000000006524      0x41c /opt/local/lib/gcc/arm-none-eabi/4.7.3/thumb/libgcc.a(_arm_addsubdf3.o)
+                0x0000000000006524                __aeabi_drsub
+                0x000000000000652c                __subdf3
+                0x000000000000652c                __aeabi_dsub
+                0x0000000000006530                __aeabi_dadd
+                0x0000000000006530                __adddf3
+                0x0000000000006840                __aeabi_ui2d
+                0x0000000000006840                __floatunsidf
+                0x0000000000006864                __floatsidf
+                0x0000000000006864                __aeabi_i2d
+                0x000000000000688c                __extendsfdf2
+                0x000000000000688c                __aeabi_f2d
+                0x00000000000068cc                __aeabi_ul2d
+                0x00000000000068cc                __floatundidf
+                0x00000000000068e0                __aeabi_l2d
+                0x00000000000068e0                __floatdidf
+ .text          0x0000000000006940      0x49c /opt/local/lib/gcc/arm-none-eabi/4.7.3/thumb/libgcc.a(_arm_muldivdf3.o)
+                0x0000000000006940                __aeabi_dmul
+                0x0000000000006940                __muldf3
+                0x0000000000006bd0                __aeabi_ddiv
+                0x0000000000006bd0                __divdf3
+ .text          0x0000000000006ddc      0x144 /opt/local/lib/gcc/arm-none-eabi/4.7.3/thumb/libgcc.a(_arm_cmpdf2.o)
+                0x0000000000006ddc                __gtdf2
+                0x0000000000006ddc                __gedf2
+                0x0000000000006de4                __ltdf2
+                0x0000000000006de4                __ledf2
+                0x0000000000006dec                __eqdf2
+                0x0000000000006dec                __nedf2
+                0x0000000000006dec                __cmpdf2
+                0x0000000000006e74                __aeabi_cdrcmple
+                0x0000000000006e90                __aeabi_cdcmple
+                0x0000000000006e90                __aeabi_cdcmpeq
+                0x0000000000006ea8                __aeabi_dcmpeq
+                0x0000000000006ec0                __aeabi_dcmplt
+                0x0000000000006ed8                __aeabi_dcmple
+                0x0000000000006ef0                __aeabi_dcmpge
+                0x0000000000006f08                __aeabi_dcmpgt
+ .text          0x0000000000006f20       0x5c /opt/local/lib/gcc/arm-none-eabi/4.7.3/thumb/libgcc.a(_arm_fixdfsi.o)
+                0x0000000000006f20                __fixdfsi
+                0x0000000000006f20                __aeabi_d2iz
+ *fill*         0x0000000000006f7c        0x4 
+ .text.__stub   0x0000000000006f80        0x8 linker stubs
+ *(.rodata*)
+ .rodata        0x0000000000006f88       0x20 ../../FreeRTOS/tasks.o
+ .rodata        0x0000000000006fa8        0x4 ../../FreeRTOS/portable/GCC/ARM_CM3/port.o
+                0x0000000000006fa8                ulKernelPriority
+ .rodata        0x0000000000006fac        0x2 ../../FreeRTOS/portable/MemMang/heap_2.o
+ *fill*         0x0000000000006fae        0x2 
+ .rodata        0x0000000000006fb0        0xc ./main.o
+ .rodata        0x0000000000006fbc       0x20 /opt/local/lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/thumb/libc.a(lib_a-svfprintf.o)
+ .rodata.str1.1
+                0x0000000000006fdc       0x34 /opt/local/lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/thumb/libc.a(lib_a-svfprintf.o)
+ .rodata.str1.1
+                0x0000000000007010        0xd /opt/local/lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/thumb/libc.a(lib_a-dtoa.o)
+                                          0xf (size before relaxing)
+ *fill*         0x000000000000701d        0x3 
+ .rodata        0x0000000000007020        0x4 /opt/local/lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/thumb/libc.a(lib_a-impure.o)
+                0x0000000000007020                _global_impure_ptr
+ .rodata.str1.1
+                0x0000000000007024        0x2 /opt/local/lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/thumb/libc.a(lib_a-impure.o)
+ .rodata.str1.1
+                0x0000000000007026        0x8 /opt/local/lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/thumb/libc.a(lib_a-locale.o)
+                                          0xb (size before relaxing)
+ *fill*         0x000000000000702e        0x2 
+ .rodata        0x0000000000007030      0x128 /opt/local/lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/thumb/libc.a(lib_a-mprec.o)
+                0x0000000000007040                __mprec_tens
+                0x0000000000007108                __mprec_tinytens
+                0x0000000000007130                __mprec_bigtens
+ .rodata        0x0000000000007158       0x20 /opt/local/lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/thumb/libc.a(lib_a-svfiprintf.o)
+ .rodata.str1.1
+                0x0000000000000000       0x22 /opt/local/lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/thumb/libc.a(lib_a-svfiprintf.o)
+
+.glue_7         0x0000000000007178        0x0
+ .glue_7        0x0000000000000000        0x0 linker stubs
+
+.glue_7t        0x0000000000007178        0x0
+ .glue_7t       0x0000000000000000        0x0 linker stubs
+
+.vfp11_veneer   0x0000000000007178        0x0
+ .vfp11_veneer  0x0000000000000000        0x0 linker stubs
+
+.v4_bx          0x0000000000007178        0x0
+ .v4_bx         0x0000000000000000        0x0 linker stubs
+
+.iplt           0x0000000000007178        0x0
+ .iplt          0x0000000000000000        0x0 ./sys/startup_lpc17.o
+
+.rel.dyn        0x0000000000007178        0x0
+ .rel.iplt      0x0000000000000000        0x0 ./sys/startup_lpc17.o
+
+.ARM.extab
+ *(.ARM.extab* .gnu.linkonce.armextab.*)
+                0x0000000000007178                __exidx_start = .
+
+.ARM.exidx
+ *(.ARM.exidx* .gnu.linkonce.armexidx.*)
+                0x0000000000007178                __exidx_end = .
+                0x0000000000007178                _etext = .
+
+.data           0x0000000010000000      0x8cc load address 0x0000000000007178
+                0x0000000010000000                _data = .
+ *(vtable)
+ *(.data*)
+ .data          0x0000000010000000        0x0 ./sys/startup_lpc17.o
+ .data          0x0000000010000000        0x0 ./sys/syscalls.o
+ .data          0x0000000010000000        0x0 ../../FreeRTOS/list.o
+ .data          0x0000000010000000        0x0 ../../FreeRTOS/queue.o
+ .data          0x0000000010000000        0x4 ../../FreeRTOS/tasks.o
+ .data          0x0000000010000004        0x4 ../../FreeRTOS/portable/GCC/ARM_CM3/port.o
+ .data          0x0000000010000008        0x4 ../../FreeRTOS/portable/MemMang/heap_2.o
+ .data          0x000000001000000c        0x4 ../../CMSIS/CM3/DeviceSupport/LPC17xx/system_LPC17xx.o
+                0x000000001000000c                SystemCoreClock
+ .data          0x0000000010000010        0x0 ./main.o
+ .data          0x0000000010000010        0x0 /opt/local/lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/thumb/libc.a(lib_a-memcpy-stub.o)
+ .data          0x0000000010000010        0x0 /opt/local/lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/thumb/libc.a(lib_a-memset.o)
+ .data          0x0000000010000010        0x0 /opt/local/lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/thumb/libc.a(lib_a-sprintf.o)
+ .data          0x0000000010000010        0x0 /opt/local/lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/thumb/libc.a(lib_a-strcat.o)
+ .data          0x0000000010000010        0x0 /opt/local/lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/thumb/libc.a(lib_a-strlen.o)
+ .data          0x0000000010000010        0x0 /opt/local/lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/thumb/libc.a(lib_a-strncpy.o)
+ .data          0x0000000010000010        0x0 /opt/local/lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/thumb/libc.a(lib_a-svfprintf.o)
+ .data          0x0000000010000010        0x0 /opt/local/lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/thumb/libc.a(lib_a-dtoa.o)
+ .data          0x0000000010000010      0x430 /opt/local/lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/thumb/libc.a(lib_a-impure.o)
+                0x0000000010000010                _impure_ptr
+ .data          0x0000000010000440       0x7c /opt/local/lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/thumb/libc.a(lib_a-locale.o)
+                0x0000000010000460                __mb_cur_max
+ .data          0x00000000100004bc      0x410 /opt/local/lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/thumb/libc.a(lib_a-mallocr.o)
+                0x00000000100004bc                __malloc_av_
+                0x00000000100008c4                __malloc_sbrk_base
+                0x00000000100008c8                __malloc_trim_threshold
+ .data          0x00000000100008cc        0x0 /opt/local/lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/thumb/libc.a(lib_a-memchr-stub.o)
+ .data          0x00000000100008cc        0x0 /opt/local/lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/thumb/libc.a(lib_a-mlock.o)
+ .data          0x00000000100008cc        0x0 /opt/local/lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/thumb/libc.a(lib_a-mprec.o)
+ .data          0x00000000100008cc        0x0 /opt/local/lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/thumb/libc.a(lib_a-s_fpclassify.o)
+ .data          0x00000000100008cc        0x0 /opt/local/lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/thumb/libc.a(lib_a-strcmp.o)
+ .data          0x00000000100008cc        0x0 /opt/local/lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/thumb/libc.a(lib_a-svfiprintf.o)
+ .data          0x00000000100008cc        0x0 /opt/local/lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/thumb/libc.a(lib_a-callocr.o)
+ .data          0x00000000100008cc        0x0 /opt/local/lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/thumb/libc.a(lib_a-freer.o)
+ .data          0x00000000100008cc        0x0 /opt/local/lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/thumb/libc.a(lib_a-memmove.o)
+ .data          0x00000000100008cc        0x0 /opt/local/lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/thumb/libc.a(lib_a-reallocr.o)
+ .data          0x00000000100008cc        0x0 /opt/local/lib/gcc/arm-none-eabi/4.7.3/thumb/libgcc.a(_thumb1_case_uqi.o)
+ .data          0x00000000100008cc        0x0 /opt/local/lib/gcc/arm-none-eabi/4.7.3/thumb/libgcc.a(_thumb1_case_uhi.o)
+ .data          0x00000000100008cc        0x0 /opt/local/lib/gcc/arm-none-eabi/4.7.3/thumb/libgcc.a(_udivsi3.o)
+ .data          0x00000000100008cc        0x0 /opt/local/lib/gcc/arm-none-eabi/4.7.3/thumb/libgcc.a(_divsi3.o)
+ .data          0x00000000100008cc        0x0 /opt/local/lib/gcc/arm-none-eabi/4.7.3/thumb/libgcc.a(_dvmd_tls.o)
+ .data          0x00000000100008cc        0x0 /opt/local/lib/gcc/arm-none-eabi/4.7.3/thumb/libgcc.a(_arm_addsubdf3.o)
+ .data          0x00000000100008cc        0x0 /opt/local/lib/gcc/arm-none-eabi/4.7.3/thumb/libgcc.a(_arm_muldivdf3.o)
+ .data          0x00000000100008cc        0x0 /opt/local/lib/gcc/arm-none-eabi/4.7.3/thumb/libgcc.a(_arm_cmpdf2.o)
+ .data          0x00000000100008cc        0x0 /opt/local/lib/gcc/arm-none-eabi/4.7.3/thumb/libgcc.a(_arm_fixdfsi.o)
+                0x00000000100008cc                _edata = .
+
+.igot.plt       0x00000000100008cc        0x0 load address 0x0000000000007a44
+ .igot.plt      0x0000000000000000        0x0 ./sys/startup_lpc17.o
+
+.bss            0x00000000100008d0     0x4df0 load address 0x0000000000007a48
+                0x00000000100008d0                _bss = .
+ *(.bss*)
+ .bss           0x00000000100008d0        0x0 ./sys/startup_lpc17.o
+ .bss           0x00000000100008d0        0x0 ./sys/syscalls.o
+ .bss           0x00000000100008d0        0x0 ../../FreeRTOS/list.o
+ .bss           0x00000000100008d0        0x0 ../../FreeRTOS/queue.o
+ .bss           0x00000000100008d0      0x144 ../../FreeRTOS/tasks.o
+                0x00000000100008d0                pxCurrentTCB
+ .bss           0x0000000010000a14        0x0 ../../FreeRTOS/portable/GCC/ARM_CM3/port.o
+ *fill*         0x0000000010000a14        0x4 
+ .bss           0x0000000010000a18     0x4c18 ../../FreeRTOS/portable/MemMang/heap_2.o
+ .bss           0x0000000010005630        0x0 ../../CMSIS/CM3/DeviceSupport/LPC17xx/system_LPC17xx.o
+ .bss           0x0000000010005630        0x0 ./main.o
+ .bss           0x0000000010005630        0x0 /opt/local/lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/thumb/libc.a(lib_a-memcpy-stub.o)
+ .bss           0x0000000010005630        0x0 /opt/local/lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/thumb/libc.a(lib_a-memset.o)
+ .bss           0x0000000010005630        0x0 /opt/local/lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/thumb/libc.a(lib_a-sprintf.o)
+ .bss           0x0000000010005630        0x0 /opt/local/lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/thumb/libc.a(lib_a-strcat.o)
+ .bss           0x0000000010005630        0x0 /opt/local/lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/thumb/libc.a(lib_a-strlen.o)
+ .bss           0x0000000010005630        0x0 /opt/local/lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/thumb/libc.a(lib_a-strncpy.o)
+ .bss           0x0000000010005630        0x0 /opt/local/lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/thumb/libc.a(lib_a-svfprintf.o)
+ .bss           0x0000000010005630        0x0 /opt/local/lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/thumb/libc.a(lib_a-dtoa.o)
+ .bss           0x0000000010005630        0x0 /opt/local/lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/thumb/libc.a(lib_a-impure.o)
+ .bss           0x0000000010005630        0xc /opt/local/lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/thumb/libc.a(lib_a-locale.o)
+                0x0000000010005630                _PathLocale
+                0x0000000010005634                __mlocale_changed
+                0x0000000010005638                __nlocale_changed
+ .bss           0x000000001000563c       0x34 /opt/local/lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/thumb/libc.a(lib_a-mallocr.o)
+                0x000000001000563c                __malloc_top_pad
+                0x0000000010005640                __malloc_current_mallinfo
+                0x0000000010005668                __malloc_max_sbrked_mem
+                0x000000001000566c                __malloc_max_total_mem
+ .bss           0x0000000010005670        0x0 /opt/local/lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/thumb/libc.a(lib_a-memchr-stub.o)
+ .bss           0x0000000010005670        0x0 /opt/local/lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/thumb/libc.a(lib_a-mlock.o)
+ .bss           0x0000000010005670        0x0 /opt/local/lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/thumb/libc.a(lib_a-mprec.o)
+ .bss           0x0000000010005670        0x0 /opt/local/lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/thumb/libc.a(lib_a-s_fpclassify.o)
+ .bss           0x0000000010005670        0x0 /opt/local/lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/thumb/libc.a(lib_a-strcmp.o)
+ .bss           0x0000000010005670        0x0 /opt/local/lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/thumb/libc.a(lib_a-svfiprintf.o)
+ .bss           0x0000000010005670        0x0 /opt/local/lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/thumb/libc.a(lib_a-callocr.o)
+ .bss           0x0000000010005670        0x0 /opt/local/lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/thumb/libc.a(lib_a-freer.o)
+ .bss           0x0000000010005670        0x0 /opt/local/lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/thumb/libc.a(lib_a-memmove.o)
+ .bss           0x0000000010005670        0x0 /opt/local/lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/thumb/libc.a(lib_a-reallocr.o)
+ .bss           0x0000000010005670        0x0 /opt/local/lib/gcc/arm-none-eabi/4.7.3/thumb/libgcc.a(_thumb1_case_uqi.o)
+ .bss           0x0000000010005670        0x0 /opt/local/lib/gcc/arm-none-eabi/4.7.3/thumb/libgcc.a(_thumb1_case_uhi.o)
+ .bss           0x0000000010005670        0x0 /opt/local/lib/gcc/arm-none-eabi/4.7.3/thumb/libgcc.a(_udivsi3.o)
+ .bss           0x0000000010005670        0x0 /opt/local/lib/gcc/arm-none-eabi/4.7.3/thumb/libgcc.a(_divsi3.o)
+ .bss           0x0000000010005670        0x0 /opt/local/lib/gcc/arm-none-eabi/4.7.3/thumb/libgcc.a(_dvmd_tls.o)
+ .bss           0x0000000010005670        0x0 /opt/local/lib/gcc/arm-none-eabi/4.7.3/thumb/libgcc.a(_arm_addsubdf3.o)
+ .bss           0x0000000010005670        0x0 /opt/local/lib/gcc/arm-none-eabi/4.7.3/thumb/libgcc.a(_arm_muldivdf3.o)
+ .bss           0x0000000010005670        0x0 /opt/local/lib/gcc/arm-none-eabi/4.7.3/thumb/libgcc.a(_arm_cmpdf2.o)
+ .bss           0x0000000010005670        0x0 /opt/local/lib/gcc/arm-none-eabi/4.7.3/thumb/libgcc.a(_arm_fixdfsi.o)
+ *(COMMON)
+ COMMON         0x0000000010005670       0x50 ../../FreeRTOS/queue.o
+                0x0000000010005670                xQueueRegistry
+                0x00000000100056c0                _ebss = .
+
+.cr_heap        0x00000000100056c0        0x0
+                0x00000000100056c0                end = .
+                0x00000000100056c0                _pvHeapStart = .
+                0x0000000010007ff0                _vStackTop = (_vRamTop - 0x10)
+
+.ETHRAM
+
+.USBRAM
+OUTPUT(BlinkLedFree.elf elf32-littlearm)
+
+.debug_info     0x0000000000000000     0xfdb2
+ .debug_info    0x0000000000000000      0x163 ./sys/startup_lpc17.o
+ .debug_info    0x0000000000000163      0xcbc ./sys/syscalls.o
+ .debug_info    0x0000000000000e1f      0x2d4 ../../FreeRTOS/list.o
+ .debug_info    0x00000000000010f3      0x934 ../../FreeRTOS/queue.o
+ .debug_info    0x0000000000001a27      0xfcd ../../FreeRTOS/tasks.o
+ .debug_info    0x00000000000029f4      0x21e ../../FreeRTOS/portable/GCC/ARM_CM3/port.o
+ .debug_info    0x0000000000002c12      0x2da ../../FreeRTOS/portable/MemMang/heap_2.o
+ .debug_info    0x0000000000002eec      0x503 ../../CMSIS/CM3/DeviceSupport/LPC17xx/system_LPC17xx.o
+ .debug_info    0x00000000000033ef      0x418 ./main.o
+ .debug_info    0x0000000000003807      0x103 /opt/local/lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/thumb/libc.a(lib_a-memcpy-stub.o)
+ .debug_info    0x000000000000390a       0xd4 /opt/local/lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/thumb/libc.a(lib_a-memset.o)
+ .debug_info    0x00000000000039de      0xacf /opt/local/lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/thumb/libc.a(lib_a-sprintf.o)
+ .debug_info    0x00000000000044ad       0xc9 /opt/local/lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/thumb/libc.a(lib_a-strcat.o)
+ .debug_info    0x0000000000004576       0xcd /opt/local/lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/thumb/libc.a(lib_a-strlen.o)
+ .debug_info    0x0000000000004643       0xf6 /opt/local/lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/thumb/libc.a(lib_a-strncpy.o)
+ .debug_info    0x0000000000004739     0x17a3 /opt/local/lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/thumb/libc.a(lib_a-svfprintf.o)
+ .debug_info    0x0000000000005edc     0x1444 /opt/local/lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/thumb/libc.a(lib_a-dtoa.o)
+ .debug_info    0x0000000000007320      0x961 /opt/local/lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/thumb/libc.a(lib_a-impure.o)
+ .debug_info    0x0000000000007c81      0xd0c /opt/local/lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/thumb/libc.a(lib_a-locale.o)
+ .debug_info    0x000000000000898d      0xe17 /opt/local/lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/thumb/libc.a(lib_a-mallocr.o)
+ .debug_info    0x00000000000097a4       0xf9 /opt/local/lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/thumb/libc.a(lib_a-memchr-stub.o)
+ .debug_info    0x000000000000989d      0x985 /opt/local/lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/thumb/libc.a(lib_a-mlock.o)
+ .debug_info    0x000000000000a222     0x1751 /opt/local/lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/thumb/libc.a(lib_a-mprec.o)
+ .debug_info    0x000000000000b973      0x143 /opt/local/lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/thumb/libc.a(lib_a-s_fpclassify.o)
+ .debug_info    0x000000000000bab6       0xb5 /opt/local/lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/thumb/libc.a(lib_a-strcmp.o)
+ .debug_info    0x000000000000bb6b     0x1148 /opt/local/lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/thumb/libc.a(lib_a-svfiprintf.o)
+ .debug_info    0x000000000000ccb3      0xace /opt/local/lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/thumb/libc.a(lib_a-callocr.o)
+ .debug_info    0x000000000000d781      0xd0e /opt/local/lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/thumb/libc.a(lib_a-freer.o)
+ .debug_info    0x000000000000e48f      0x103 /opt/local/lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/thumb/libc.a(lib_a-memmove.o)
+ .debug_info    0x000000000000e592      0xd63 /opt/local/lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/thumb/libc.a(lib_a-reallocr.o)
+ .debug_info    0x000000000000f2f5      0x131 /opt/local/lib/gcc/arm-none-eabi/4.7.3/thumb/libgcc.a(_thumb1_case_uqi.o)
+ .debug_info    0x000000000000f426      0x131 /opt/local/lib/gcc/arm-none-eabi/4.7.3/thumb/libgcc.a(_thumb1_case_uhi.o)
+ .debug_info    0x000000000000f557      0x131 /opt/local/lib/gcc/arm-none-eabi/4.7.3/thumb/libgcc.a(_udivsi3.o)
+ .debug_info    0x000000000000f688      0x131 /opt/local/lib/gcc/arm-none-eabi/4.7.3/thumb/libgcc.a(_divsi3.o)
+ .debug_info    0x000000000000f7b9      0x131 /opt/local/lib/gcc/arm-none-eabi/4.7.3/thumb/libgcc.a(_dvmd_tls.o)
+ .debug_info    0x000000000000f8ea      0x132 /opt/local/lib/gcc/arm-none-eabi/4.7.3/thumb/libgcc.a(_arm_addsubdf3.o)
+ .debug_info    0x000000000000fa1c      0x132 /opt/local/lib/gcc/arm-none-eabi/4.7.3/thumb/libgcc.a(_arm_muldivdf3.o)
+ .debug_info    0x000000000000fb4e      0x132 /opt/local/lib/gcc/arm-none-eabi/4.7.3/thumb/libgcc.a(_arm_cmpdf2.o)
+ .debug_info    0x000000000000fc80      0x132 /opt/local/lib/gcc/arm-none-eabi/4.7.3/thumb/libgcc.a(_arm_fixdfsi.o)
+
+.debug_abbrev   0x0000000000000000     0x2da6
+ .debug_abbrev  0x0000000000000000       0xb8 ./sys/startup_lpc17.o
+ .debug_abbrev  0x00000000000000b8      0x19a ./sys/syscalls.o
+ .debug_abbrev  0x0000000000000252       0xb5 ../../FreeRTOS/list.o
+ .debug_abbrev  0x0000000000000307      0x1c9 ../../FreeRTOS/queue.o
+ .debug_abbrev  0x00000000000004d0      0x1fa ../../FreeRTOS/tasks.o
+ .debug_abbrev  0x00000000000006ca      0x132 ../../FreeRTOS/portable/GCC/ARM_CM3/port.o
+ .debug_abbrev  0x00000000000007fc      0x179 ../../FreeRTOS/portable/MemMang/heap_2.o
+ .debug_abbrev  0x0000000000000975       0xf4 ../../CMSIS/CM3/DeviceSupport/LPC17xx/system_LPC17xx.o
+ .debug_abbrev  0x0000000000000a69      0x123 ./main.o
+ .debug_abbrev  0x0000000000000b8c       0xa2 /opt/local/lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/thumb/libc.a(lib_a-memcpy-stub.o)
+ .debug_abbrev  0x0000000000000c2e       0x8c /opt/local/lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/thumb/libc.a(lib_a-memset.o)
+ .debug_abbrev  0x0000000000000cba      0x1fa /opt/local/lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/thumb/libc.a(lib_a-sprintf.o)
+ .debug_abbrev  0x0000000000000eb4       0x70 /opt/local/lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/thumb/libc.a(lib_a-strcat.o)
+ .debug_abbrev  0x0000000000000f24       0x8a /opt/local/lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/thumb/libc.a(lib_a-strlen.o)
+ .debug_abbrev  0x0000000000000fae       0x8c /opt/local/lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/thumb/libc.a(lib_a-strncpy.o)
+ .debug_abbrev  0x000000000000103a      0x35c /opt/local/lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/thumb/libc.a(lib_a-svfprintf.o)
+ .debug_abbrev  0x0000000000001396      0x2c0 /opt/local/lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/thumb/libc.a(lib_a-dtoa.o)
+ .debug_abbrev  0x0000000000001656      0x160 /opt/local/lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/thumb/libc.a(lib_a-impure.o)
+ .debug_abbrev  0x00000000000017b6      0x277 /opt/local/lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/thumb/libc.a(lib_a-locale.o)
+ .debug_abbrev  0x0000000000001a2d      0x286 /opt/local/lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/thumb/libc.a(lib_a-mallocr.o)
+ .debug_abbrev  0x0000000000001cb3       0xa9 /opt/local/lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/thumb/libc.a(lib_a-memchr-stub.o)
+ .debug_abbrev  0x0000000000001d5c      0x17a /opt/local/lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/thumb/libc.a(lib_a-mlock.o)
+ .debug_abbrev  0x0000000000001ed6      0x2ff /opt/local/lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/thumb/libc.a(lib_a-mprec.o)
+ .debug_abbrev  0x00000000000021d5       0xc4 /opt/local/lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/thumb/libc.a(lib_a-s_fpclassify.o)
+ .debug_abbrev  0x0000000000002299       0x70 /opt/local/lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/thumb/libc.a(lib_a-strcmp.o)
+ .debug_abbrev  0x0000000000002309      0x2d4 /opt/local/lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/thumb/libc.a(lib_a-svfiprintf.o)
+ .debug_abbrev  0x00000000000025dd      0x206 /opt/local/lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/thumb/libc.a(lib_a-callocr.o)
+ .debug_abbrev  0x00000000000027e3      0x23a /opt/local/lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/thumb/libc.a(lib_a-freer.o)
+ .debug_abbrev  0x0000000000002a1d       0x9a /opt/local/lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/thumb/libc.a(lib_a-memmove.o)
+ .debug_abbrev  0x0000000000002ab7      0x23b /opt/local/lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/thumb/libc.a(lib_a-reallocr.o)
+ .debug_abbrev  0x0000000000002cf2       0x14 /opt/local/lib/gcc/arm-none-eabi/4.7.3/thumb/libgcc.a(_thumb1_case_uqi.o)
+ .debug_abbrev  0x0000000000002d06       0x14 /opt/local/lib/gcc/arm-none-eabi/4.7.3/thumb/libgcc.a(_thumb1_case_uhi.o)
+ .debug_abbrev  0x0000000000002d1a       0x14 /opt/local/lib/gcc/arm-none-eabi/4.7.3/thumb/libgcc.a(_udivsi3.o)
+ .debug_abbrev  0x0000000000002d2e       0x14 /opt/local/lib/gcc/arm-none-eabi/4.7.3/thumb/libgcc.a(_divsi3.o)
+ .debug_abbrev  0x0000000000002d42       0x14 /opt/local/lib/gcc/arm-none-eabi/4.7.3/thumb/libgcc.a(_dvmd_tls.o)
+ .debug_abbrev  0x0000000000002d56       0x14 /opt/local/lib/gcc/arm-none-eabi/4.7.3/thumb/libgcc.a(_arm_addsubdf3.o)
+ .debug_abbrev  0x0000000000002d6a       0x14 /opt/local/lib/gcc/arm-none-eabi/4.7.3/thumb/libgcc.a(_arm_muldivdf3.o)
+ .debug_abbrev  0x0000000000002d7e       0x14 /opt/local/lib/gcc/arm-none-eabi/4.7.3/thumb/libgcc.a(_arm_cmpdf2.o)
+ .debug_abbrev  0x0000000000002d92       0x14 /opt/local/lib/gcc/arm-none-eabi/4.7.3/thumb/libgcc.a(_arm_fixdfsi.o)
+
+.debug_loc      0x0000000000000000     0x874a
+ .debug_loc     0x0000000000000000       0x2c ./sys/startup_lpc17.o
+ .debug_loc     0x000000000000002c       0xe0 ./sys/syscalls.o
+ .debug_loc     0x000000000000010c       0xa0 ../../FreeRTOS/list.o
+ .debug_loc     0x00000000000001ac      0x360 ../../FreeRTOS/queue.o
+ .debug_loc     0x000000000000050c      0x5c9 ../../FreeRTOS/tasks.o
+ .debug_loc     0x0000000000000ad5       0x6c ../../FreeRTOS/portable/GCC/ARM_CM3/port.o
+ .debug_loc     0x0000000000000b41       0x58 ../../FreeRTOS/portable/MemMang/heap_2.o
+ .debug_loc     0x0000000000000b99       0x78 ./main.o
+ .debug_loc     0x0000000000000c11       0x59 /opt/local/lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/thumb/libc.a(lib_a-memcpy-stub.o)
+ .debug_loc     0x0000000000000c6a       0x5f /opt/local/lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/thumb/libc.a(lib_a-memset.o)
+ .debug_loc     0x0000000000000cc9      0x106 /opt/local/lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/thumb/libc.a(lib_a-sprintf.o)
+ .debug_loc     0x0000000000000dcf       0x69 /opt/local/lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/thumb/libc.a(lib_a-strcat.o)
+ .debug_loc     0x0000000000000e38       0x21 /opt/local/lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/thumb/libc.a(lib_a-strlen.o)
+ .debug_loc     0x0000000000000e59       0xbe /opt/local/lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/thumb/libc.a(lib_a-strncpy.o)
+ .debug_loc     0x0000000000000f17     0x18ce /opt/local/lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/thumb/libc.a(lib_a-svfprintf.o)
+ .debug_loc     0x00000000000027e5     0x168a /opt/local/lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/thumb/libc.a(lib_a-dtoa.o)
+ .debug_loc     0x0000000000003e6f      0x16f /opt/local/lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/thumb/libc.a(lib_a-locale.o)
+ .debug_loc     0x0000000000003fde      0x766 /opt/local/lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/thumb/libc.a(lib_a-mallocr.o)
+ .debug_loc     0x0000000000004744       0x96 /opt/local/lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/thumb/libc.a(lib_a-memchr-stub.o)
+ .debug_loc     0x00000000000047da     0x19aa /opt/local/lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/thumb/libc.a(lib_a-mprec.o)
+ .debug_loc     0x0000000000006184       0x84 /opt/local/lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/thumb/libc.a(lib_a-s_fpclassify.o)
+ .debug_loc     0x0000000000006208       0x21 /opt/local/lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/thumb/libc.a(lib_a-strcmp.o)
+ .debug_loc     0x0000000000006229     0x109d /opt/local/lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/thumb/libc.a(lib_a-svfiprintf.o)
+ .debug_loc     0x00000000000072c6      0x1d8 /opt/local/lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/thumb/libc.a(lib_a-callocr.o)
+ .debug_loc     0x000000000000749e      0x53e /opt/local/lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/thumb/libc.a(lib_a-freer.o)
+ .debug_loc     0x00000000000079dc       0xe2 /opt/local/lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/thumb/libc.a(lib_a-memmove.o)
+ .debug_loc     0x0000000000007abe      0xc8c /opt/local/lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/thumb/libc.a(lib_a-reallocr.o)
+
+.debug_aranges  0x0000000000000000      0x4d8
+ .debug_aranges
+                0x0000000000000000       0x20 ./sys/startup_lpc17.o
+ .debug_aranges
+                0x0000000000000020       0x20 ./sys/syscalls.o
+ .debug_aranges
+                0x0000000000000040       0x20 ../../FreeRTOS/list.o
+ .debug_aranges
+                0x0000000000000060       0x20 ../../FreeRTOS/queue.o
+ .debug_aranges
+                0x0000000000000080       0x20 ../../FreeRTOS/tasks.o
+ .debug_aranges
+                0x00000000000000a0       0x20 ../../FreeRTOS/portable/GCC/ARM_CM3/port.o
+ .debug_aranges
+                0x00000000000000c0       0x20 ../../FreeRTOS/portable/MemMang/heap_2.o
+ .debug_aranges
+                0x00000000000000e0       0x20 ../../CMSIS/CM3/DeviceSupport/LPC17xx/system_LPC17xx.o
+ .debug_aranges
+                0x0000000000000100       0x20 ./main.o
+ .debug_aranges
+                0x0000000000000120       0x20 /opt/local/lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/thumb/libc.a(lib_a-memcpy-stub.o)
+ .debug_aranges
+                0x0000000000000140       0x20 /opt/local/lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/thumb/libc.a(lib_a-memset.o)
+ .debug_aranges
+                0x0000000000000160       0x20 /opt/local/lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/thumb/libc.a(lib_a-sprintf.o)
+ .debug_aranges
+                0x0000000000000180       0x20 /opt/local/lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/thumb/libc.a(lib_a-strcat.o)
+ .debug_aranges
+                0x00000000000001a0       0x20 /opt/local/lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/thumb/libc.a(lib_a-strlen.o)
+ .debug_aranges
+                0x00000000000001c0       0x20 /opt/local/lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/thumb/libc.a(lib_a-strncpy.o)
+ .debug_aranges
+                0x00000000000001e0       0x20 /opt/local/lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/thumb/libc.a(lib_a-svfprintf.o)
+ .debug_aranges
+                0x0000000000000200       0x20 /opt/local/lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/thumb/libc.a(lib_a-dtoa.o)
+ .debug_aranges
+                0x0000000000000220       0x18 /opt/local/lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/thumb/libc.a(lib_a-impure.o)
+ .debug_aranges
+                0x0000000000000238       0x20 /opt/local/lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/thumb/libc.a(lib_a-locale.o)
+ .debug_aranges
+                0x0000000000000258       0x20 /opt/local/lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/thumb/libc.a(lib_a-mallocr.o)
+ .debug_aranges
+                0x0000000000000278       0x20 /opt/local/lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/thumb/libc.a(lib_a-memchr-stub.o)
+ .debug_aranges
+                0x0000000000000298       0x20 /opt/local/lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/thumb/libc.a(lib_a-mlock.o)
+ .debug_aranges
+                0x00000000000002b8       0x20 /opt/local/lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/thumb/libc.a(lib_a-mprec.o)
+ .debug_aranges
+                0x00000000000002d8       0x20 /opt/local/lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/thumb/libc.a(lib_a-s_fpclassify.o)
+ .debug_aranges
+                0x00000000000002f8       0x20 /opt/local/lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/thumb/libc.a(lib_a-strcmp.o)
+ .debug_aranges
+                0x0000000000000318       0x20 /opt/local/lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/thumb/libc.a(lib_a-svfiprintf.o)
+ .debug_aranges
+                0x0000000000000338       0x20 /opt/local/lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/thumb/libc.a(lib_a-callocr.o)
+ .debug_aranges
+                0x0000000000000358       0x20 /opt/local/lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/thumb/libc.a(lib_a-freer.o)
+ .debug_aranges
+                0x0000000000000378       0x20 /opt/local/lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/thumb/libc.a(lib_a-memmove.o)
+ .debug_aranges
+                0x0000000000000398       0x20 /opt/local/lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/thumb/libc.a(lib_a-reallocr.o)
+ .debug_aranges
+                0x00000000000003b8       0x20 /opt/local/lib/gcc/arm-none-eabi/4.7.3/thumb/libgcc.a(_thumb1_case_uqi.o)
+ .debug_aranges
+                0x00000000000003d8       0x20 /opt/local/lib/gcc/arm-none-eabi/4.7.3/thumb/libgcc.a(_thumb1_case_uhi.o)
+ .debug_aranges
+                0x00000000000003f8       0x20 /opt/local/lib/gcc/arm-none-eabi/4.7.3/thumb/libgcc.a(_udivsi3.o)
+ .debug_aranges
+                0x0000000000000418       0x20 /opt/local/lib/gcc/arm-none-eabi/4.7.3/thumb/libgcc.a(_divsi3.o)
+ .debug_aranges
+                0x0000000000000438       0x20 /opt/local/lib/gcc/arm-none-eabi/4.7.3/thumb/libgcc.a(_dvmd_tls.o)
+ .debug_aranges
+                0x0000000000000458       0x20 /opt/local/lib/gcc/arm-none-eabi/4.7.3/thumb/libgcc.a(_arm_addsubdf3.o)
+ .debug_aranges
+                0x0000000000000478       0x20 /opt/local/lib/gcc/arm-none-eabi/4.7.3/thumb/libgcc.a(_arm_muldivdf3.o)
+ .debug_aranges
+                0x0000000000000498       0x20 /opt/local/lib/gcc/arm-none-eabi/4.7.3/thumb/libgcc.a(_arm_cmpdf2.o)
+ .debug_aranges
+                0x00000000000004b8       0x20 /opt/local/lib/gcc/arm-none-eabi/4.7.3/thumb/libgcc.a(_arm_fixdfsi.o)
+
+.debug_line     0x0000000000000000     0x5c19
+ .debug_line    0x0000000000000000       0x89 ./sys/startup_lpc17.o
+ .debug_line    0x0000000000000089      0x10e ./sys/syscalls.o
+ .debug_line    0x0000000000000197      0x150 ../../FreeRTOS/list.o
+ .debug_line    0x00000000000002e7      0x2ef ../../FreeRTOS/queue.o
+ .debug_line    0x00000000000005d6      0x58f ../../FreeRTOS/tasks.o
+ .debug_line    0x0000000000000b65      0x149 ../../FreeRTOS/portable/GCC/ARM_CM3/port.o
+ .debug_line    0x0000000000000cae      0x17e ../../FreeRTOS/portable/MemMang/heap_2.o
+ .debug_line    0x0000000000000e2c      0x162 ../../CMSIS/CM3/DeviceSupport/LPC17xx/system_LPC17xx.o
+ .debug_line    0x0000000000000f8e      0x181 ./main.o
+ .debug_line    0x000000000000110f      0x1db /opt/local/lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/thumb/libc.a(lib_a-memcpy-stub.o)
+ .debug_line    0x00000000000012ea      0x1d3 /opt/local/lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/thumb/libc.a(lib_a-memset.o)
+ .debug_line    0x00000000000014bd      0x2ab /opt/local/lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/thumb/libc.a(lib_a-sprintf.o)
+ .debug_line    0x0000000000001768      0x14f /opt/local/lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/thumb/libc.a(lib_a-strcat.o)
+ .debug_line    0x00000000000018b7      0x1ce /opt/local/lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/thumb/libc.a(lib_a-strlen.o)
+ .debug_line    0x0000000000001a85      0x1e8 /opt/local/lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/thumb/libc.a(lib_a-strncpy.o)
+ .debug_line    0x0000000000001c6d      0x8a3 /opt/local/lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/thumb/libc.a(lib_a-svfprintf.o)
+ .debug_line    0x0000000000002510      0x797 /opt/local/lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/thumb/libc.a(lib_a-dtoa.o)
+ .debug_line    0x0000000000002ca7      0x1c8 /opt/local/lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/thumb/libc.a(lib_a-impure.o)
+ .debug_line    0x0000000000002e6f      0x2af /opt/local/lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/thumb/libc.a(lib_a-locale.o)
+ .debug_line    0x000000000000311e      0x416 /opt/local/lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/thumb/libc.a(lib_a-mallocr.o)
+ .debug_line    0x0000000000003534      0x1e9 /opt/local/lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/thumb/libc.a(lib_a-memchr-stub.o)
+ .debug_line    0x000000000000371d      0x1da /opt/local/lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/thumb/libc.a(lib_a-mlock.o)
+ .debug_line    0x00000000000038f7      0x6c5 /opt/local/lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/thumb/libc.a(lib_a-mprec.o)
+ .debug_line    0x0000000000003fbc      0x211 /opt/local/lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/thumb/libc.a(lib_a-s_fpclassify.o)
+ .debug_line    0x00000000000041cd      0x145 /opt/local/lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/thumb/libc.a(lib_a-strcmp.o)
+ .debug_line    0x0000000000004312      0x5dc /opt/local/lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/thumb/libc.a(lib_a-svfiprintf.o)
+ .debug_line    0x00000000000048ee      0x208 /opt/local/lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/thumb/libc.a(lib_a-callocr.o)
+ .debug_line    0x0000000000004af6      0x314 /opt/local/lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/thumb/libc.a(lib_a-freer.o)
+ .debug_line    0x0000000000004e0a      0x1fc /opt/local/lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/thumb/libc.a(lib_a-memmove.o)
+ .debug_line    0x0000000000005006      0x2bd /opt/local/lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/thumb/libc.a(lib_a-reallocr.o)
+ .debug_line    0x00000000000052c3       0xc0 /opt/local/lib/gcc/arm-none-eabi/4.7.3/thumb/libgcc.a(_thumb1_case_uqi.o)
+ .debug_line    0x0000000000005383       0xc1 /opt/local/lib/gcc/arm-none-eabi/4.7.3/thumb/libgcc.a(_thumb1_case_uhi.o)
+ .debug_line    0x0000000000005444       0xd3 /opt/local/lib/gcc/arm-none-eabi/4.7.3/thumb/libgcc.a(_udivsi3.o)
+ .debug_line    0x0000000000005517       0xe0 /opt/local/lib/gcc/arm-none-eabi/4.7.3/thumb/libgcc.a(_divsi3.o)
+ .debug_line    0x00000000000055f7       0xb8 /opt/local/lib/gcc/arm-none-eabi/4.7.3/thumb/libgcc.a(_dvmd_tls.o)
+ .debug_line    0x00000000000056af      0x1bf /opt/local/lib/gcc/arm-none-eabi/4.7.3/thumb/libgcc.a(_arm_addsubdf3.o)
+ .debug_line    0x000000000000586e      0x1d7 /opt/local/lib/gcc/arm-none-eabi/4.7.3/thumb/libgcc.a(_arm_muldivdf3.o)
+ .debug_line    0x0000000000005a45      0x105 /opt/local/lib/gcc/arm-none-eabi/4.7.3/thumb/libgcc.a(_arm_cmpdf2.o)
+ .debug_line    0x0000000000005b4a       0xcf /opt/local/lib/gcc/arm-none-eabi/4.7.3/thumb/libgcc.a(_arm_fixdfsi.o)
+
+.debug_str      0x0000000000000000     0x2c9c
+ .debug_str     0x0000000000000000      0x138 ./sys/startup_lpc17.o
+                                        0x150 (size before relaxing)
+ .debug_str     0x0000000000000138      0x4fa ./sys/syscalls.o
+                                        0x5ee (size before relaxing)
+ .debug_str     0x0000000000000632      0x14e ../../FreeRTOS/list.o
+                                        0x24f (size before relaxing)
+ .debug_str     0x0000000000000780      0x409 ../../FreeRTOS/queue.o
+                                        0x5dc (size before relaxing)
+ .debug_str     0x0000000000000b89      0x7bc ../../FreeRTOS/tasks.o
+                                        0x9ca (size before relaxing)
+ .debug_str     0x0000000000001345      0x132 ../../FreeRTOS/portable/GCC/ARM_CM3/port.o
+                                        0x268 (size before relaxing)
+ .debug_str     0x0000000000001477      0x159 ../../FreeRTOS/portable/MemMang/heap_2.o
+                                        0x27a (size before relaxing)
+ .debug_str     0x00000000000015d0      0x208 ../../CMSIS/CM3/DeviceSupport/LPC17xx/system_LPC17xx.o
+                                        0x314 (size before relaxing)
+ .debug_str     0x00000000000017d8      0x15d ./main.o
+                                        0x295 (size before relaxing)
+ .debug_str     0x0000000000001935       0xab /opt/local/lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/thumb/libc.a(lib_a-memcpy-stub.o)
+                                        0x150 (size before relaxing)
+ .debug_str     0x00000000000019e0       0x8d /opt/local/lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/thumb/libc.a(lib_a-memset.o)
+                                        0x132 (size before relaxing)
+ .debug_str     0x0000000000001a6d      0x150 /opt/local/lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/thumb/libc.a(lib_a-sprintf.o)
+                                        0x5b6 (size before relaxing)
+ .debug_str     0x0000000000001bbd       0x8d /opt/local/lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/thumb/libc.a(lib_a-strcat.o)
+                                        0x12b (size before relaxing)
+ .debug_str     0x0000000000001c4a       0x9a /opt/local/lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/thumb/libc.a(lib_a-strlen.o)
+                                        0x13f (size before relaxing)
+ .debug_str     0x0000000000001ce4       0x9b /opt/local/lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/thumb/libc.a(lib_a-strncpy.o)
+                                        0x150 (size before relaxing)
+ .debug_str     0x0000000000001d7f      0x324 /opt/local/lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/thumb/libc.a(lib_a-svfprintf.o)
+                                        0x8fe (size before relaxing)
+ .debug_str     0x00000000000020a3      0x1a2 /opt/local/lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/thumb/libc.a(lib_a-dtoa.o)
+                                        0x64e (size before relaxing)
+ .debug_str     0x0000000000002245       0xa4 /opt/local/lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/thumb/libc.a(lib_a-impure.o)
+                                        0x4fd (size before relaxing)
+ .debug_str     0x00000000000022e9      0x1fa /opt/local/lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/thumb/libc.a(lib_a-locale.o)
+                                        0x7e6 (size before relaxing)
+ .debug_str     0x00000000000024e3      0x30c /opt/local/lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/thumb/libc.a(lib_a-mallocr.o)
+                                        0x798 (size before relaxing)
+ .debug_str     0x00000000000027ef       0x99 /opt/local/lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/thumb/libc.a(lib_a-memchr-stub.o)
+                                        0x14c (size before relaxing)
+ .debug_str     0x0000000000002888       0x9a /opt/local/lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/thumb/libc.a(lib_a-mlock.o)
+                                        0x505 (size before relaxing)
+ .debug_str     0x0000000000002922       0xf0 /opt/local/lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/thumb/libc.a(lib_a-mprec.o)
+                                        0x608 (size before relaxing)
+ .debug_str     0x0000000000002a12       0xae /opt/local/lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/thumb/libc.a(lib_a-s_fpclassify.o)
+                                        0x184 (size before relaxing)
+ .debug_str     0x0000000000002ac0       0x8b /opt/local/lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/thumb/libc.a(lib_a-strcmp.o)
+                                        0x130 (size before relaxing)
+ .debug_str     0x0000000000002b4b       0x30 /opt/local/lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/thumb/libc.a(lib_a-svfiprintf.o)
+                                        0x701 (size before relaxing)
+ .debug_str     0x0000000000002b7b        0xf /opt/local/lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/thumb/libc.a(lib_a-callocr.o)
+                                        0x5c2 (size before relaxing)
+ .debug_str     0x0000000000002b8a       0x34 /opt/local/lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/thumb/libc.a(lib_a-freer.o)
+                                        0x6e2 (size before relaxing)
+ .debug_str     0x0000000000002bbe       0x90 /opt/local/lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/thumb/libc.a(lib_a-memmove.o)
+                                        0x14d (size before relaxing)
+ .debug_str     0x0000000000002c4e       0x4e /opt/local/lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/thumb/libc.a(lib_a-reallocr.o)
+                                        0x66a (size before relaxing)
+
+.comment        0x0000000000000000       0x11
+ .comment       0x0000000000000000       0x11 ./sys/startup_lpc17.o
+                                         0x12 (size before relaxing)
+ .comment       0x0000000000000000       0x12 ./sys/syscalls.o
+ .comment       0x0000000000000000       0x12 ../../FreeRTOS/list.o
+ .comment       0x0000000000000000       0x12 ../../FreeRTOS/queue.o
+ .comment       0x0000000000000000       0x12 ../../FreeRTOS/tasks.o
+ .comment       0x0000000000000000       0x12 ../../FreeRTOS/portable/GCC/ARM_CM3/port.o
+ .comment       0x0000000000000000       0x12 ../../FreeRTOS/portable/MemMang/heap_2.o
+ .comment       0x0000000000000000       0x12 ../../CMSIS/CM3/DeviceSupport/LPC17xx/system_LPC17xx.o
+ .comment       0x0000000000000000       0x12 ./main.o
+ .comment       0x0000000000000000       0x12 /opt/local/lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/thumb/libc.a(lib_a-memcpy-stub.o)
+ .comment       0x0000000000000000       0x12 /opt/local/lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/thumb/libc.a(lib_a-memset.o)
+ .comment       0x0000000000000000       0x12 /opt/local/lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/thumb/libc.a(lib_a-sprintf.o)
+ .comment       0x0000000000000000       0x12 /opt/local/lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/thumb/libc.a(lib_a-strcat.o)
+ .comment       0x0000000000000000       0x12 /opt/local/lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/thumb/libc.a(lib_a-strlen.o)
+ .comment       0x0000000000000000       0x12 /opt/local/lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/thumb/libc.a(lib_a-strncpy.o)
+ .comment       0x0000000000000000       0x12 /opt/local/lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/thumb/libc.a(lib_a-svfprintf.o)
+ .comment       0x0000000000000000       0x12 /opt/local/lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/thumb/libc.a(lib_a-dtoa.o)
+ .comment       0x0000000000000000       0x12 /opt/local/lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/thumb/libc.a(lib_a-impure.o)
+ .comment       0x0000000000000000       0x12 /opt/local/lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/thumb/libc.a(lib_a-locale.o)
+ .comment       0x0000000000000000       0x12 /opt/local/lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/thumb/libc.a(lib_a-mallocr.o)
+ .comment       0x0000000000000000       0x12 /opt/local/lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/thumb/libc.a(lib_a-memchr-stub.o)
+ .comment       0x0000000000000000       0x12 /opt/local/lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/thumb/libc.a(lib_a-mlock.o)
+ .comment       0x0000000000000000       0x12 /opt/local/lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/thumb/libc.a(lib_a-mprec.o)
+ .comment       0x0000000000000000       0x12 /opt/local/lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/thumb/libc.a(lib_a-s_fpclassify.o)
+ .comment       0x0000000000000000       0x12 /opt/local/lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/thumb/libc.a(lib_a-strcmp.o)
+ .comment       0x0000000000000000       0x12 /opt/local/lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/thumb/libc.a(lib_a-svfiprintf.o)
+ .comment       0x0000000000000000       0x12 /opt/local/lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/thumb/libc.a(lib_a-callocr.o)
+ .comment       0x0000000000000000       0x12 /opt/local/lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/thumb/libc.a(lib_a-freer.o)
+ .comment       0x0000000000000000       0x12 /opt/local/lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/thumb/libc.a(lib_a-memmove.o)
+ .comment       0x0000000000000000       0x12 /opt/local/lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/thumb/libc.a(lib_a-reallocr.o)
+
+.ARM.attributes
+                0x0000000000000000       0x35
+ .ARM.attributes
+                0x0000000000000000       0x33 ./sys/startup_lpc17.o
+ .ARM.attributes
+                0x0000000000000033       0x33 ./sys/syscalls.o
+ .ARM.attributes
+                0x0000000000000066       0x33 ../../FreeRTOS/list.o
+ .ARM.attributes
+                0x0000000000000099       0x33 ../../FreeRTOS/queue.o
+ .ARM.attributes
+                0x00000000000000cc       0x33 ../../FreeRTOS/tasks.o
+ .ARM.attributes
+                0x00000000000000ff       0x33 ../../FreeRTOS/portable/GCC/ARM_CM3/port.o
+ .ARM.attributes
+                0x0000000000000132       0x33 ../../FreeRTOS/portable/MemMang/heap_2.o
+ .ARM.attributes
+                0x0000000000000165       0x33 ../../CMSIS/CM3/DeviceSupport/LPC17xx/system_LPC17xx.o
+ .ARM.attributes
+                0x0000000000000198       0x33 ./main.o
+ .ARM.attributes
+                0x00000000000001cb       0x30 /opt/local/lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/thumb/libc.a(lib_a-memcpy-stub.o)
+ .ARM.attributes
+                0x00000000000001fb       0x30 /opt/local/lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/thumb/libc.a(lib_a-memset.o)
+ .ARM.attributes
+                0x000000000000022b       0x30 /opt/local/lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/thumb/libc.a(lib_a-sprintf.o)
+ .ARM.attributes
+                0x000000000000025b       0x30 /opt/local/lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/thumb/libc.a(lib_a-strcat.o)
+ .ARM.attributes
+                0x000000000000028b       0x30 /opt/local/lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/thumb/libc.a(lib_a-strlen.o)
+ .ARM.attributes
+                0x00000000000002bb       0x30 /opt/local/lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/thumb/libc.a(lib_a-strncpy.o)
+ .ARM.attributes
+                0x00000000000002eb       0x30 /opt/local/lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/thumb/libc.a(lib_a-svfprintf.o)
+ .ARM.attributes
+                0x000000000000031b       0x30 /opt/local/lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/thumb/libc.a(lib_a-dtoa.o)
+ .ARM.attributes
+                0x000000000000034b       0x30 /opt/local/lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/thumb/libc.a(lib_a-impure.o)
+ .ARM.attributes
+                0x000000000000037b       0x30 /opt/local/lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/thumb/libc.a(lib_a-locale.o)
+ .ARM.attributes
+                0x00000000000003ab       0x30 /opt/local/lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/thumb/libc.a(lib_a-mallocr.o)
+ .ARM.attributes
+                0x00000000000003db       0x30 /opt/local/lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/thumb/libc.a(lib_a-memchr-stub.o)
+ .ARM.attributes
+                0x000000000000040b       0x30 /opt/local/lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/thumb/libc.a(lib_a-mlock.o)
+ .ARM.attributes
+                0x000000000000043b       0x30 /opt/local/lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/thumb/libc.a(lib_a-mprec.o)
+ .ARM.attributes
+                0x000000000000046b       0x30 /opt/local/lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/thumb/libc.a(lib_a-s_fpclassify.o)
+ .ARM.attributes
+                0x000000000000049b       0x30 /opt/local/lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/thumb/libc.a(lib_a-strcmp.o)
+ .ARM.attributes
+                0x00000000000004cb       0x30 /opt/local/lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/thumb/libc.a(lib_a-svfiprintf.o)
+ .ARM.attributes
+                0x00000000000004fb       0x30 /opt/local/lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/thumb/libc.a(lib_a-callocr.o)
+ .ARM.attributes
+                0x000000000000052b       0x30 /opt/local/lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/thumb/libc.a(lib_a-freer.o)
+ .ARM.attributes
+                0x000000000000055b       0x30 /opt/local/lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/thumb/libc.a(lib_a-memmove.o)
+ .ARM.attributes
+                0x000000000000058b       0x30 /opt/local/lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/thumb/libc.a(lib_a-reallocr.o)
+ .ARM.attributes
+                0x00000000000005bb       0x16 /opt/local/lib/gcc/arm-none-eabi/4.7.3/thumb/libgcc.a(_thumb1_case_uqi.o)
+ .ARM.attributes
+                0x00000000000005d1       0x16 /opt/local/lib/gcc/arm-none-eabi/4.7.3/thumb/libgcc.a(_thumb1_case_uhi.o)
+ .ARM.attributes
+                0x00000000000005e7       0x18 /opt/local/lib/gcc/arm-none-eabi/4.7.3/thumb/libgcc.a(_udivsi3.o)
+ .ARM.attributes
+                0x00000000000005ff       0x18 /opt/local/lib/gcc/arm-none-eabi/4.7.3/thumb/libgcc.a(_divsi3.o)
+ .ARM.attributes
+                0x0000000000000617       0x16 /opt/local/lib/gcc/arm-none-eabi/4.7.3/thumb/libgcc.a(_dvmd_tls.o)
+ .ARM.attributes
+                0x000000000000062d       0x18 /opt/local/lib/gcc/arm-none-eabi/4.7.3/thumb/libgcc.a(_arm_addsubdf3.o)
+ .ARM.attributes
+                0x0000000000000645       0x18 /opt/local/lib/gcc/arm-none-eabi/4.7.3/thumb/libgcc.a(_arm_muldivdf3.o)
+ .ARM.attributes
+                0x000000000000065d       0x18 /opt/local/lib/gcc/arm-none-eabi/4.7.3/thumb/libgcc.a(_arm_cmpdf2.o)
+ .ARM.attributes
+                0x0000000000000675       0x18 /opt/local/lib/gcc/arm-none-eabi/4.7.3/thumb/libgcc.a(_arm_fixdfsi.o)
+
+.debug_frame    0x0000000000000000     0x106c
+ .debug_frame   0x0000000000000000       0x9c ./sys/startup_lpc17.o
+ .debug_frame   0x000000000000009c       0x9c ./sys/syscalls.o
+ .debug_frame   0x0000000000000138       0x74 ../../FreeRTOS/list.o
+ .debug_frame   0x00000000000001ac      0x234 ../../FreeRTOS/queue.o
+ .debug_frame   0x00000000000003e0      0x404 ../../FreeRTOS/tasks.o
+ .debug_frame   0x00000000000007e4       0xdc ../../FreeRTOS/portable/GCC/ARM_CM3/port.o
+ .debug_frame   0x00000000000008c0       0x68 ../../FreeRTOS/portable/MemMang/heap_2.o
+ .debug_frame   0x0000000000000928       0x30 ../../CMSIS/CM3/DeviceSupport/LPC17xx/system_LPC17xx.o
+ .debug_frame   0x0000000000000958       0x64 ./main.o
+ .debug_frame   0x00000000000009bc       0x28 /opt/local/lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/thumb/libc.a(lib_a-memcpy-stub.o)
+ .debug_frame   0x00000000000009e4       0x28 /opt/local/lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/thumb/libc.a(lib_a-memset.o)
+ .debug_frame   0x0000000000000a0c       0x4c /opt/local/lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/thumb/libc.a(lib_a-sprintf.o)
+ .debug_frame   0x0000000000000a58       0x28 /opt/local/lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/thumb/libc.a(lib_a-strcat.o)
+ .debug_frame   0x0000000000000a80       0x20 /opt/local/lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/thumb/libc.a(lib_a-strlen.o)
+ .debug_frame   0x0000000000000aa0       0x28 /opt/local/lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/thumb/libc.a(lib_a-strncpy.o)
+ .debug_frame   0x0000000000000ac8       0x34 /opt/local/lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/thumb/libc.a(lib_a-svfprintf.o)
+ .debug_frame   0x0000000000000afc       0x54 /opt/local/lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/thumb/libc.a(lib_a-dtoa.o)
+ .debug_frame   0x0000000000000b50       0xa4 /opt/local/lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/thumb/libc.a(lib_a-locale.o)
+ .debug_frame   0x0000000000000bf4       0x30 /opt/local/lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/thumb/libc.a(lib_a-mallocr.o)
+ .debug_frame   0x0000000000000c24       0x28 /opt/local/lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/thumb/libc.a(lib_a-memchr-stub.o)
+ .debug_frame   0x0000000000000c4c       0x30 /opt/local/lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/thumb/libc.a(lib_a-mlock.o)
+ .debug_frame   0x0000000000000c7c      0x240 /opt/local/lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/thumb/libc.a(lib_a-mprec.o)
+ .debug_frame   0x0000000000000ebc       0x28 /opt/local/lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/thumb/libc.a(lib_a-s_fpclassify.o)
+ .debug_frame   0x0000000000000ee4       0x20 /opt/local/lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/thumb/libc.a(lib_a-strcmp.o)
+ .debug_frame   0x0000000000000f04       0x54 /opt/local/lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/thumb/libc.a(lib_a-svfiprintf.o)
+ .debug_frame   0x0000000000000f58       0x28 /opt/local/lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/thumb/libc.a(lib_a-callocr.o)
+ .debug_frame   0x0000000000000f80       0x50 /opt/local/lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/thumb/libc.a(lib_a-freer.o)
+ .debug_frame   0x0000000000000fd0       0x2c /opt/local/lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/thumb/libc.a(lib_a-memmove.o)
+ .debug_frame   0x0000000000000ffc       0x30 /opt/local/lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/thumb/libc.a(lib_a-reallocr.o)
+ .debug_frame   0x000000000000102c       0x20 /opt/local/lib/gcc/arm-none-eabi/4.7.3/thumb/libgcc.a(_udivsi3.o)
+ .debug_frame   0x000000000000104c       0x20 /opt/local/lib/gcc/arm-none-eabi/4.7.3/thumb/libgcc.a(_divsi3.o)
+
+.debug_ranges   0x0000000000000000      0x130
+ .debug_ranges  0x0000000000000000       0xc0 /opt/local/lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/thumb/libc.a(lib_a-svfprintf.o)
+ .debug_ranges  0x00000000000000c0       0x18 /opt/local/lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/thumb/libc.a(lib_a-s_fpclassify.o)
+ .debug_ranges  0x00000000000000d8       0x18 /opt/local/lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/thumb/libc.a(lib_a-svfiprintf.o)
+ .debug_ranges  0x00000000000000f0       0x40 /opt/local/lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/thumb/libc.a(lib_a-reallocr.o)
+
+Cross Reference Table
+
+Symbol                                            File
+ADC_IRQHandler                                    ./sys/startup_lpc17.o
+BOD_IRQHandler                                    ./sys/startup_lpc17.o
+CAN_IRQHandler                                    ./sys/startup_lpc17.o
+DMA_IRQHandler                                    ./sys/startup_lpc17.o
+EINT0_IRQHandler                                  ./sys/startup_lpc17.o
+EINT1_IRQHandler                                  ./sys/startup_lpc17.o
+EINT2_IRQHandler                                  ./sys/startup_lpc17.o
+EINT3_IRQHandler                                  ./sys/startup_lpc17.o
+ENET_IRQHandler                                   ./sys/startup_lpc17.o
+I2C0_IRQHandler                                   ./sys/startup_lpc17.o
+I2C1_IRQHandler                                   ./sys/startup_lpc17.o
+I2C2_IRQHandler                                   ./sys/startup_lpc17.o
+I2S_IRQHandler                                    ./sys/startup_lpc17.o
+MCPWM_IRQHandler                                  ./sys/startup_lpc17.o
+PLL0_IRQHandler                                   ./sys/startup_lpc17.o
+PLL1_IRQHandler                                   ./sys/startup_lpc17.o
+PWM1_IRQHandler                                   ./sys/startup_lpc17.o
+QEI_IRQHandler                                    ./sys/startup_lpc17.o
+RIT_IRQHandler                                    ./sys/startup_lpc17.o
+RTC_IRQHandler                                    ./sys/startup_lpc17.o
+ResetISR                                          ./sys/startup_lpc17.o
+Reset_Handler                                     ./sys/startup_lpc17.o
+SPI_IRQHandler                                    ./sys/startup_lpc17.o
+SSP0_IRQHandler                                   ./sys/startup_lpc17.o
+SSP1_IRQHandler                                   ./sys/startup_lpc17.o
+SystemCoreClock                                   ../../CMSIS/CM3/DeviceSupport/LPC17xx/system_LPC17xx.o
+SystemCoreClockUpdate                             ../../CMSIS/CM3/DeviceSupport/LPC17xx/system_LPC17xx.o
+                                                  ./main.o
+SystemInit                                        ../../CMSIS/CM3/DeviceSupport/LPC17xx/system_LPC17xx.o
+TIMER0_IRQHandler                                 ./sys/startup_lpc17.o
+TIMER1_IRQHandler                                 ./sys/startup_lpc17.o
+TIMER2_IRQHandler                                 ./sys/startup_lpc17.o
+TIMER3_IRQHandler                                 ./sys/startup_lpc17.o
+UART0_IRQHandler                                  ./sys/startup_lpc17.o
+UART1_IRQHandler                                  ./sys/startup_lpc17.o
+UART2_IRQHandler                                  ./sys/startup_lpc17.o
+UART3_IRQHandler                                  ./sys/startup_lpc17.o
+USB_IRQHandler                                    ./sys/startup_lpc17.o
+WDT_IRQHandler                                    ./sys/startup_lpc17.o
+_Balloc                                           /opt/local/lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/thumb/libc.a(lib_a-mprec.o)
+                                                  /opt/local/lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/thumb/libc.a(lib_a-dtoa.o)
+_Bfree                                            /opt/local/lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/thumb/libc.a(lib_a-mprec.o)
+                                                  /opt/local/lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/thumb/libc.a(lib_a-dtoa.o)
+_PathLocale                                       /opt/local/lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/thumb/libc.a(lib_a-locale.o)
+__adddf3                                          /opt/local/lib/gcc/arm-none-eabi/4.7.3/thumb/libgcc.a(_arm_addsubdf3.o)
+__aeabi_cdcmpeq                                   /opt/local/lib/gcc/arm-none-eabi/4.7.3/thumb/libgcc.a(_arm_cmpdf2.o)
+__aeabi_cdcmple                                   /opt/local/lib/gcc/arm-none-eabi/4.7.3/thumb/libgcc.a(_arm_cmpdf2.o)
+__aeabi_cdrcmple                                  /opt/local/lib/gcc/arm-none-eabi/4.7.3/thumb/libgcc.a(_arm_cmpdf2.o)
+__aeabi_d2iz                                      /opt/local/lib/gcc/arm-none-eabi/4.7.3/thumb/libgcc.a(_arm_fixdfsi.o)
+                                                  /opt/local/lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/thumb/libc.a(lib_a-dtoa.o)
+__aeabi_dadd                                      /opt/local/lib/gcc/arm-none-eabi/4.7.3/thumb/libgcc.a(_arm_addsubdf3.o)
+                                                  /opt/local/lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/thumb/libc.a(lib_a-dtoa.o)
+__aeabi_dcmpeq                                    /opt/local/lib/gcc/arm-none-eabi/4.7.3/thumb/libgcc.a(_arm_cmpdf2.o)
+                                                  /opt/local/lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/thumb/libc.a(lib_a-dtoa.o)
+                                                  /opt/local/lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/thumb/libc.a(lib_a-svfprintf.o)
+__aeabi_dcmpge                                    /opt/local/lib/gcc/arm-none-eabi/4.7.3/thumb/libgcc.a(_arm_cmpdf2.o)
+                                                  /opt/local/lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/thumb/libc.a(lib_a-dtoa.o)
+__aeabi_dcmpgt                                    /opt/local/lib/gcc/arm-none-eabi/4.7.3/thumb/libgcc.a(_arm_cmpdf2.o)
+                                                  /opt/local/lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/thumb/libc.a(lib_a-dtoa.o)
+__aeabi_dcmple                                    /opt/local/lib/gcc/arm-none-eabi/4.7.3/thumb/libgcc.a(_arm_cmpdf2.o)
+__aeabi_dcmplt                                    /opt/local/lib/gcc/arm-none-eabi/4.7.3/thumb/libgcc.a(_arm_cmpdf2.o)
+                                                  /opt/local/lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/thumb/libc.a(lib_a-dtoa.o)
+                                                  /opt/local/lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/thumb/libc.a(lib_a-svfprintf.o)
+__aeabi_ddiv                                      /opt/local/lib/gcc/arm-none-eabi/4.7.3/thumb/libgcc.a(_arm_muldivdf3.o)
+                                                  /opt/local/lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/thumb/libc.a(lib_a-mprec.o)
+                                                  /opt/local/lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/thumb/libc.a(lib_a-dtoa.o)
+__aeabi_dmul                                      /opt/local/lib/gcc/arm-none-eabi/4.7.3/thumb/libgcc.a(_arm_muldivdf3.o)
+                                                  /opt/local/lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/thumb/libc.a(lib_a-mprec.o)
+                                                  /opt/local/lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/thumb/libc.a(lib_a-dtoa.o)
+__aeabi_drsub                                     /opt/local/lib/gcc/arm-none-eabi/4.7.3/thumb/libgcc.a(_arm_addsubdf3.o)
+__aeabi_dsub                                      /opt/local/lib/gcc/arm-none-eabi/4.7.3/thumb/libgcc.a(_arm_addsubdf3.o)
+                                                  /opt/local/lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/thumb/libc.a(lib_a-dtoa.o)
+__aeabi_f2d                                       /opt/local/lib/gcc/arm-none-eabi/4.7.3/thumb/libgcc.a(_arm_addsubdf3.o)
+__aeabi_i2d                                       /opt/local/lib/gcc/arm-none-eabi/4.7.3/thumb/libgcc.a(_arm_addsubdf3.o)
+                                                  /opt/local/lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/thumb/libc.a(lib_a-dtoa.o)
+__aeabi_idiv                                      /opt/local/lib/gcc/arm-none-eabi/4.7.3/thumb/libgcc.a(_divsi3.o)
+                                                  /opt/local/lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/thumb/libc.a(lib_a-mprec.o)
+                                                  /opt/local/lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/thumb/libc.a(lib_a-svfprintf.o)
+__aeabi_idiv0                                     /opt/local/lib/gcc/arm-none-eabi/4.7.3/thumb/libgcc.a(_dvmd_tls.o)
+                                                  /opt/local/lib/gcc/arm-none-eabi/4.7.3/thumb/libgcc.a(_divsi3.o)
+                                                  /opt/local/lib/gcc/arm-none-eabi/4.7.3/thumb/libgcc.a(_udivsi3.o)
+__aeabi_idivmod                                   /opt/local/lib/gcc/arm-none-eabi/4.7.3/thumb/libgcc.a(_divsi3.o)
+                                                  /opt/local/lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/thumb/libc.a(lib_a-svfprintf.o)
+__aeabi_l2d                                       /opt/local/lib/gcc/arm-none-eabi/4.7.3/thumb/libgcc.a(_arm_addsubdf3.o)
+__aeabi_ldiv0                                     /opt/local/lib/gcc/arm-none-eabi/4.7.3/thumb/libgcc.a(_dvmd_tls.o)
+__aeabi_ui2d                                      /opt/local/lib/gcc/arm-none-eabi/4.7.3/thumb/libgcc.a(_arm_addsubdf3.o)
+                                                  /opt/local/lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/thumb/libc.a(lib_a-dtoa.o)
+__aeabi_uidiv                                     /opt/local/lib/gcc/arm-none-eabi/4.7.3/thumb/libgcc.a(_udivsi3.o)
+                                                  /opt/local/lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/thumb/libc.a(lib_a-svfiprintf.o)
+                                                  /opt/local/lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/thumb/libc.a(lib_a-dtoa.o)
+                                                  /opt/local/lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/thumb/libc.a(lib_a-svfprintf.o)
+__aeabi_uidivmod                                  /opt/local/lib/gcc/arm-none-eabi/4.7.3/thumb/libgcc.a(_udivsi3.o)
+                                                  /opt/local/lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/thumb/libc.a(lib_a-svfiprintf.o)
+                                                  /opt/local/lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/thumb/libc.a(lib_a-svfprintf.o)
+__aeabi_ul2d                                      /opt/local/lib/gcc/arm-none-eabi/4.7.3/thumb/libgcc.a(_arm_addsubdf3.o)
+__any_on                                          /opt/local/lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/thumb/libc.a(lib_a-mprec.o)
+__b2d                                             /opt/local/lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/thumb/libc.a(lib_a-mprec.o)
+__cmpdf2                                          /opt/local/lib/gcc/arm-none-eabi/4.7.3/thumb/libgcc.a(_arm_cmpdf2.o)
+__copybits                                        /opt/local/lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/thumb/libc.a(lib_a-mprec.o)
+__d2b                                             /opt/local/lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/thumb/libc.a(lib_a-mprec.o)
+                                                  /opt/local/lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/thumb/libc.a(lib_a-dtoa.o)
+__divdf3                                          /opt/local/lib/gcc/arm-none-eabi/4.7.3/thumb/libgcc.a(_arm_muldivdf3.o)
+__divsi3                                          /opt/local/lib/gcc/arm-none-eabi/4.7.3/thumb/libgcc.a(_divsi3.o)
+__eqdf2                                           /opt/local/lib/gcc/arm-none-eabi/4.7.3/thumb/libgcc.a(_arm_cmpdf2.o)
+__extendsfdf2                                     /opt/local/lib/gcc/arm-none-eabi/4.7.3/thumb/libgcc.a(_arm_addsubdf3.o)
+__fixdfsi                                         /opt/local/lib/gcc/arm-none-eabi/4.7.3/thumb/libgcc.a(_arm_fixdfsi.o)
+__floatdidf                                       /opt/local/lib/gcc/arm-none-eabi/4.7.3/thumb/libgcc.a(_arm_addsubdf3.o)
+__floatsidf                                       /opt/local/lib/gcc/arm-none-eabi/4.7.3/thumb/libgcc.a(_arm_addsubdf3.o)
+__floatundidf                                     /opt/local/lib/gcc/arm-none-eabi/4.7.3/thumb/libgcc.a(_arm_addsubdf3.o)
+__floatunsidf                                     /opt/local/lib/gcc/arm-none-eabi/4.7.3/thumb/libgcc.a(_arm_addsubdf3.o)
+__fpclassifyd                                     /opt/local/lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/thumb/libc.a(lib_a-s_fpclassify.o)
+                                                  /opt/local/lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/thumb/libc.a(lib_a-svfprintf.o)
+__gedf2                                           /opt/local/lib/gcc/arm-none-eabi/4.7.3/thumb/libgcc.a(_arm_cmpdf2.o)
+__gnu_thumb1_case_uhi                             /opt/local/lib/gcc/arm-none-eabi/4.7.3/thumb/libgcc.a(_thumb1_case_uhi.o)
+                                                  /opt/local/lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/thumb/libc.a(lib_a-svfprintf.o)
+__gnu_thumb1_case_uqi                             /opt/local/lib/gcc/arm-none-eabi/4.7.3/thumb/libgcc.a(_thumb1_case_uqi.o)
+                                                  /opt/local/lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/thumb/libc.a(lib_a-dtoa.o)
+__gtdf2                                           /opt/local/lib/gcc/arm-none-eabi/4.7.3/thumb/libgcc.a(_arm_cmpdf2.o)
+__hi0bits                                         /opt/local/lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/thumb/libc.a(lib_a-mprec.o)
+                                                  /opt/local/lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/thumb/libc.a(lib_a-dtoa.o)
+__i2b                                             /opt/local/lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/thumb/libc.a(lib_a-mprec.o)
+                                                  /opt/local/lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/thumb/libc.a(lib_a-dtoa.o)
+__ledf2                                           /opt/local/lib/gcc/arm-none-eabi/4.7.3/thumb/libgcc.a(_arm_cmpdf2.o)
+__libc_init_array                                 ./sys/startup_lpc17.o
+__lo0bits                                         /opt/local/lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/thumb/libc.a(lib_a-mprec.o)
+__locale_charset                                  /opt/local/lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/thumb/libc.a(lib_a-locale.o)
+__locale_cjk_lang                                 /opt/local/lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/thumb/libc.a(lib_a-locale.o)
+__locale_mb_cur_max                               /opt/local/lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/thumb/libc.a(lib_a-locale.o)
+__locale_msgcharset                               /opt/local/lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/thumb/libc.a(lib_a-locale.o)
+__lshift                                          /opt/local/lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/thumb/libc.a(lib_a-mprec.o)
+                                                  /opt/local/lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/thumb/libc.a(lib_a-dtoa.o)
+__ltdf2                                           /opt/local/lib/gcc/arm-none-eabi/4.7.3/thumb/libgcc.a(_arm_cmpdf2.o)
+__main                                            ./sys/startup_lpc17.o
+__malloc_av_                                      /opt/local/lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/thumb/libc.a(lib_a-mallocr.o)
+                                                  /opt/local/lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/thumb/libc.a(lib_a-reallocr.o)
+                                                  /opt/local/lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/thumb/libc.a(lib_a-freer.o)
+__malloc_current_mallinfo                         /opt/local/lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/thumb/libc.a(lib_a-mallocr.o)
+                                                  /opt/local/lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/thumb/libc.a(lib_a-freer.o)
+__malloc_lock                                     /opt/local/lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/thumb/libc.a(lib_a-mlock.o)
+                                                  /opt/local/lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/thumb/libc.a(lib_a-reallocr.o)
+                                                  /opt/local/lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/thumb/libc.a(lib_a-freer.o)
+                                                  /opt/local/lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/thumb/libc.a(lib_a-mallocr.o)
+__malloc_max_sbrked_mem                           /opt/local/lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/thumb/libc.a(lib_a-mallocr.o)
+__malloc_max_total_mem                            /opt/local/lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/thumb/libc.a(lib_a-mallocr.o)
+__malloc_sbrk_base                                /opt/local/lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/thumb/libc.a(lib_a-mallocr.o)
+                                                  /opt/local/lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/thumb/libc.a(lib_a-freer.o)
+__malloc_top_pad                                  /opt/local/lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/thumb/libc.a(lib_a-mallocr.o)
+                                                  /opt/local/lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/thumb/libc.a(lib_a-freer.o)
+__malloc_trim_threshold                           /opt/local/lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/thumb/libc.a(lib_a-mallocr.o)
+                                                  /opt/local/lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/thumb/libc.a(lib_a-freer.o)
+__malloc_unlock                                   /opt/local/lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/thumb/libc.a(lib_a-mlock.o)
+                                                  /opt/local/lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/thumb/libc.a(lib_a-reallocr.o)
+                                                  /opt/local/lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/thumb/libc.a(lib_a-freer.o)
+                                                  /opt/local/lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/thumb/libc.a(lib_a-mallocr.o)
+__mb_cur_max                                      /opt/local/lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/thumb/libc.a(lib_a-locale.o)
+__mcmp                                            /opt/local/lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/thumb/libc.a(lib_a-mprec.o)
+                                                  /opt/local/lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/thumb/libc.a(lib_a-dtoa.o)
+__mdiff                                           /opt/local/lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/thumb/libc.a(lib_a-mprec.o)
+                                                  /opt/local/lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/thumb/libc.a(lib_a-dtoa.o)
+__mlocale_changed                                 /opt/local/lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/thumb/libc.a(lib_a-locale.o)
+__mprec_bigtens                                   /opt/local/lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/thumb/libc.a(lib_a-mprec.o)
+                                                  /opt/local/lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/thumb/libc.a(lib_a-dtoa.o)
+__mprec_tens                                      /opt/local/lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/thumb/libc.a(lib_a-mprec.o)
+                                                  /opt/local/lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/thumb/libc.a(lib_a-dtoa.o)
+__mprec_tinytens                                  /opt/local/lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/thumb/libc.a(lib_a-mprec.o)
+__muldf3                                          /opt/local/lib/gcc/arm-none-eabi/4.7.3/thumb/libgcc.a(_arm_muldivdf3.o)
+__multadd                                         /opt/local/lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/thumb/libc.a(lib_a-mprec.o)
+                                                  /opt/local/lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/thumb/libc.a(lib_a-dtoa.o)
+__multiply                                        /opt/local/lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/thumb/libc.a(lib_a-mprec.o)
+                                                  /opt/local/lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/thumb/libc.a(lib_a-dtoa.o)
+__nedf2                                           /opt/local/lib/gcc/arm-none-eabi/4.7.3/thumb/libgcc.a(_arm_cmpdf2.o)
+__nlocale_changed                                 /opt/local/lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/thumb/libc.a(lib_a-locale.o)
+__pow5mult                                        /opt/local/lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/thumb/libc.a(lib_a-mprec.o)
+                                                  /opt/local/lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/thumb/libc.a(lib_a-dtoa.o)
+__ratio                                           /opt/local/lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/thumb/libc.a(lib_a-mprec.o)
+__s2b                                             /opt/local/lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/thumb/libc.a(lib_a-mprec.o)
+__ssprint_r                                       /opt/local/lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/thumb/libc.a(lib_a-svfiprintf.o)
+                                                  /opt/local/lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/thumb/libc.a(lib_a-svfprintf.o)
+__subdf3                                          /opt/local/lib/gcc/arm-none-eabi/4.7.3/thumb/libgcc.a(_arm_addsubdf3.o)
+__udivsi3                                         /opt/local/lib/gcc/arm-none-eabi/4.7.3/thumb/libgcc.a(_udivsi3.o)
+__ulp                                             /opt/local/lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/thumb/libc.a(lib_a-mprec.o)
+_bss                                              ./sys/startup_lpc17.o
+_calloc_r                                         /opt/local/lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/thumb/libc.a(lib_a-callocr.o)
+                                                  /opt/local/lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/thumb/libc.a(lib_a-mprec.o)
+_close_r                                          ./sys/syscalls.o
+_data                                             ./sys/startup_lpc17.o
+_dtoa_r                                           /opt/local/lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/thumb/libc.a(lib_a-dtoa.o)
+                                                  /opt/local/lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/thumb/libc.a(lib_a-svfprintf.o)
+_ebss                                             ./sys/startup_lpc17.o
+_edata                                            ./sys/startup_lpc17.o
+_etext                                            ./sys/startup_lpc17.o
+_free_r                                           /opt/local/lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/thumb/libc.a(lib_a-freer.o)
+                                                  /opt/local/lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/thumb/libc.a(lib_a-reallocr.o)
+                                                  /opt/local/lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/thumb/libc.a(lib_a-svfiprintf.o)
+                                                  /opt/local/lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/thumb/libc.a(lib_a-mallocr.o)
+_fstat_r                                          ./sys/syscalls.o
+_global_impure_ptr                                /opt/local/lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/thumb/libc.a(lib_a-impure.o)
+_impure_ptr                                       /opt/local/lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/thumb/libc.a(lib_a-impure.o)
+                                                  /opt/local/lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/thumb/libc.a(lib_a-locale.o)
+                                                  /opt/local/lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/thumb/libc.a(lib_a-sprintf.o)
+_isatty_r                                         ./sys/syscalls.o
+_localeconv_r                                     /opt/local/lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/thumb/libc.a(lib_a-locale.o)
+                                                  /opt/local/lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/thumb/libc.a(lib_a-svfprintf.o)
+_lseek_r                                          ./sys/syscalls.o
+_malloc_r                                         /opt/local/lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/thumb/libc.a(lib_a-mallocr.o)
+                                                  /opt/local/lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/thumb/libc.a(lib_a-reallocr.o)
+                                                  /opt/local/lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/thumb/libc.a(lib_a-callocr.o)
+                                                  /opt/local/lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/thumb/libc.a(lib_a-svfiprintf.o)
+                                                  /opt/local/lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/thumb/libc.a(lib_a-svfprintf.o)
+_malloc_trim_r                                    /opt/local/lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/thumb/libc.a(lib_a-freer.o)
+_mprec_log10                                      /opt/local/lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/thumb/libc.a(lib_a-mprec.o)
+_read_r                                           ./sys/syscalls.o
+_realloc_r                                        /opt/local/lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/thumb/libc.a(lib_a-reallocr.o)
+                                                  /opt/local/lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/thumb/libc.a(lib_a-svfiprintf.o)
+_sbrk_r                                           ./sys/syscalls.o
+                                                  /opt/local/lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/thumb/libc.a(lib_a-freer.o)
+                                                  /opt/local/lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/thumb/libc.a(lib_a-mallocr.o)
+_setlocale_r                                      /opt/local/lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/thumb/libc.a(lib_a-locale.o)
+_sprintf_r                                        /opt/local/lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/thumb/libc.a(lib_a-sprintf.o)
+_svfiprintf_r                                     /opt/local/lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/thumb/libc.a(lib_a-svfiprintf.o)
+_svfprintf_r                                      /opt/local/lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/thumb/libc.a(lib_a-svfprintf.o)
+                                                  /opt/local/lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/thumb/libc.a(lib_a-sprintf.o)
+_vStackTop                                        ./sys/startup_lpc17.o
+_write_r                                          ./sys/syscalls.o
+blink_led_task                                    ./main.o
+g_pfnVectors                                      ./sys/startup_lpc17.o
+init_hardware                                     ./main.o
+localeconv                                        /opt/local/lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/thumb/libc.a(lib_a-locale.o)
+main                                              ./main.o
+                                                  ./sys/startup_lpc17.o
+memchr                                            /opt/local/lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/thumb/libc.a(lib_a-memchr-stub.o)
+                                                  /opt/local/lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/thumb/libc.a(lib_a-svfiprintf.o)
+                                                  /opt/local/lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/thumb/libc.a(lib_a-svfprintf.o)
+memcpy                                            /opt/local/lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/thumb/libc.a(lib_a-memcpy-stub.o)
+                                                  /opt/local/lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/thumb/libc.a(lib_a-svfiprintf.o)
+                                                  /opt/local/lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/thumb/libc.a(lib_a-mprec.o)
+                                                  /opt/local/lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/thumb/libc.a(lib_a-dtoa.o)
+                                                  ../../FreeRTOS/queue.o
+memmove                                           /opt/local/lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/thumb/libc.a(lib_a-memmove.o)
+                                                  /opt/local/lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/thumb/libc.a(lib_a-reallocr.o)
+                                                  /opt/local/lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/thumb/libc.a(lib_a-svfiprintf.o)
+memset                                            /opt/local/lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/thumb/libc.a(lib_a-memset.o)
+                                                  /opt/local/lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/thumb/libc.a(lib_a-callocr.o)
+                                                  ../../FreeRTOS/tasks.o
+pvPortMalloc                                      ../../FreeRTOS/portable/MemMang/heap_2.o
+                                                  ../../FreeRTOS/tasks.o
+                                                  ../../FreeRTOS/queue.o
+pxCurrentTCB                                      ../../FreeRTOS/tasks.o
+                                                  ../../FreeRTOS/portable/GCC/ARM_CM3/port.o
+pxPortInitialiseStack                             ../../FreeRTOS/portable/GCC/ARM_CM3/port.o
+                                                  ../../FreeRTOS/tasks.o
+setlocale                                         /opt/local/lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/thumb/libc.a(lib_a-locale.o)
+sprintf                                           /opt/local/lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/thumb/libc.a(lib_a-sprintf.o)
+                                                  ../../FreeRTOS/tasks.o
+strcat                                            /opt/local/lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/thumb/libc.a(lib_a-strcat.o)
+                                                  ../../FreeRTOS/tasks.o
+strcmp                                            /opt/local/lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/thumb/libc.a(lib_a-strcmp.o)
+                                                  /opt/local/lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/thumb/libc.a(lib_a-locale.o)
+strlen                                            /opt/local/lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/thumb/libc.a(lib_a-strlen.o)
+                                                  /opt/local/lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/thumb/libc.a(lib_a-svfiprintf.o)
+                                                  /opt/local/lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/thumb/libc.a(lib_a-svfprintf.o)
+                                                  ../../FreeRTOS/tasks.o
+strncpy                                           /opt/local/lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/thumb/libc.a(lib_a-strncpy.o)
+                                                  ../../FreeRTOS/tasks.o
+ulKernelPriority                                  ../../FreeRTOS/portable/GCC/ARM_CM3/port.o
+ulTaskEndTrace                                    ../../FreeRTOS/tasks.o
+uxQueueMessagesWaiting                            ../../FreeRTOS/queue.o
+uxQueueMessagesWaitingFromISR                     ../../FreeRTOS/queue.o
+uxTaskGetNumberOfTasks                            ../../FreeRTOS/tasks.o
+uxTaskGetStackHighWaterMark                       ../../FreeRTOS/tasks.o
+uxTaskPriorityGet                                 ../../FreeRTOS/tasks.o
+vListInitialise                                   ../../FreeRTOS/list.o
+                                                  ../../FreeRTOS/tasks.o
+                                                  ../../FreeRTOS/queue.o
+vListInitialiseItem                               ../../FreeRTOS/list.o
+                                                  ../../FreeRTOS/tasks.o
+vListInsert                                       ../../FreeRTOS/list.o
+                                                  ../../FreeRTOS/tasks.o
+vListInsertEnd                                    ../../FreeRTOS/list.o
+                                                  ../../FreeRTOS/tasks.o
+vListRemove                                       ../../FreeRTOS/list.o
+                                                  ../../FreeRTOS/tasks.o
+vPortEndScheduler                                 ../../FreeRTOS/portable/GCC/ARM_CM3/port.o
+                                                  ../../FreeRTOS/tasks.o
+vPortEnterCritical                                ../../FreeRTOS/portable/GCC/ARM_CM3/port.o
+                                                  ../../FreeRTOS/tasks.o
+                                                  ../../FreeRTOS/queue.o
+vPortExitCritical                                 ../../FreeRTOS/portable/GCC/ARM_CM3/port.o
+                                                  ../../FreeRTOS/tasks.o
+                                                  ../../FreeRTOS/queue.o
+vPortFree                                         ../../FreeRTOS/portable/MemMang/heap_2.o
+                                                  ../../FreeRTOS/tasks.o
+                                                  ../../FreeRTOS/queue.o
+vPortInitialiseBlocks                             ../../FreeRTOS/portable/MemMang/heap_2.o
+vPortSVCHandler                                   ../../FreeRTOS/portable/GCC/ARM_CM3/port.o
+                                                  ./sys/startup_lpc17.o
+vPortStartFirstTask                               ../../FreeRTOS/portable/GCC/ARM_CM3/port.o
+vPortYieldFromISR                                 ../../FreeRTOS/portable/GCC/ARM_CM3/port.o
+                                                  ../../FreeRTOS/tasks.o
+                                                  ../../FreeRTOS/queue.o
+vQueueAddToRegistry                               ../../FreeRTOS/queue.o
+vQueueDelete                                      ../../FreeRTOS/queue.o
+vTaskDelay                                        ../../FreeRTOS/tasks.o
+                                                  ./main.o
+vTaskDelayUntil                                   ../../FreeRTOS/tasks.o
+vTaskDelete                                       ../../FreeRTOS/tasks.o
+vTaskEndScheduler                                 ../../FreeRTOS/tasks.o
+vTaskIncrementTick                                ../../FreeRTOS/tasks.o
+                                                  ../../FreeRTOS/portable/GCC/ARM_CM3/port.o
+vTaskList                                         ../../FreeRTOS/tasks.o
+vTaskMissedYield                                  ../../FreeRTOS/tasks.o
+                                                  ../../FreeRTOS/queue.o
+vTaskPlaceOnEventList                             ../../FreeRTOS/tasks.o
+                                                  ../../FreeRTOS/queue.o
+vTaskPriorityDisinherit                           ../../FreeRTOS/tasks.o
+                                                  ../../FreeRTOS/queue.o
+vTaskPriorityInherit                              ../../FreeRTOS/tasks.o
+                                                  ../../FreeRTOS/queue.o
+vTaskPrioritySet                                  ../../FreeRTOS/tasks.o
+vTaskResume                                       ../../FreeRTOS/tasks.o
+vTaskSetTimeOutState                              ../../FreeRTOS/tasks.o
+                                                  ../../FreeRTOS/queue.o
+vTaskStartScheduler                               ../../FreeRTOS/tasks.o
+                                                  ./main.o
+vTaskStartTrace                                   ../../FreeRTOS/tasks.o
+vTaskSuspend                                      ../../FreeRTOS/tasks.o
+vTaskSuspendAll                                   ../../FreeRTOS/tasks.o
+                                                  ../../FreeRTOS/portable/MemMang/heap_2.o
+                                                  ../../FreeRTOS/queue.o
+vTaskSwitchContext                                ../../FreeRTOS/tasks.o
+                                                  ../../FreeRTOS/portable/GCC/ARM_CM3/port.o
+xPortGetFreeHeapSize                              ../../FreeRTOS/portable/MemMang/heap_2.o
+xPortPendSVHandler                                ../../FreeRTOS/portable/GCC/ARM_CM3/port.o
+                                                  ./sys/startup_lpc17.o
+xPortStartScheduler                               ../../FreeRTOS/portable/GCC/ARM_CM3/port.o
+                                                  ../../FreeRTOS/tasks.o
+xPortSysTickHandler                               ../../FreeRTOS/portable/GCC/ARM_CM3/port.o
+                                                  ./sys/startup_lpc17.o
+xQueueCreate                                      ../../FreeRTOS/queue.o
+xQueueCreateCountingSemaphore                     ../../FreeRTOS/queue.o
+xQueueCreateMutex                                 ../../FreeRTOS/queue.o
+xQueueGenericReceive                              ../../FreeRTOS/queue.o
+xQueueGenericSend                                 ../../FreeRTOS/queue.o
+xQueueGenericSendFromISR                          ../../FreeRTOS/queue.o
+xQueueGiveMutexRecursive                          ../../FreeRTOS/queue.o
+xQueueIsQueueEmptyFromISR                         ../../FreeRTOS/queue.o
+xQueueIsQueueFullFromISR                          ../../FreeRTOS/queue.o
+xQueueReceiveFromISR                              ../../FreeRTOS/queue.o
+xQueueRegistry                                    ../../FreeRTOS/queue.o
+xQueueTakeMutexRecursive                          ../../FreeRTOS/queue.o
+xTaskCheckForTimeOut                              ../../FreeRTOS/tasks.o
+                                                  ../../FreeRTOS/queue.o
+xTaskGenericCreate                                ../../FreeRTOS/tasks.o
+                                                  ./main.o
+xTaskGetCurrentTaskHandle                         ../../FreeRTOS/tasks.o
+                                                  ../../FreeRTOS/queue.o
+xTaskGetTickCount                                 ../../FreeRTOS/tasks.o
+xTaskGetTickCountFromISR                          ../../FreeRTOS/tasks.o
+xTaskIsTaskSuspended                              ../../FreeRTOS/tasks.o
+xTaskRemoveFromEventList                          ../../FreeRTOS/tasks.o
+                                                  ../../FreeRTOS/queue.o
+xTaskResumeAll                                    ../../FreeRTOS/tasks.o
+                                                  ../../FreeRTOS/portable/MemMang/heap_2.o
+                                                  ../../FreeRTOS/queue.o
+xTaskResumeFromISR                                ../../FreeRTOS/tasks.o
